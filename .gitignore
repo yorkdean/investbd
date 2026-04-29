@@ -4,6 +4,7 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
+*.py
 .Python
 env/
 venv/
@@ -18,9 +19,14 @@ venv/
 .DS_Store
 Thumbs.db
 
-# Database backup (keep main db)
+# Database backup
 *_backup/
 *.bak
 
 # Logs
 *.log
+
+# Project files (local only - not for GitHub)
+*.db
+*.csv
+focus_areas.json
