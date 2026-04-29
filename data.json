@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "totalInstitutions": 548,
-    "totalTags": 1797,
+    "totalInstitutions": 546,
+    "totalTags": 1799,
     "years": [
       2020,
       2021,
@@ -33,7 +33,7 @@
       "早期投资",
       "母基金/FOF"
     ],
-    "generatedAt": "2026-04-29T23:52:46.767858"
+    "generatedAt": "2026-04-29T23:58:41.206714"
   },
   "institutions": [
     {
@@ -14632,31 +14632,6 @@
       ]
     },
     {
-      "id": 553,
-      "name": "海尔创投",
-      "type": "未分类",
-      "fund_scale": "",
-      "focus_areas": "",
-      "cases": "",
-      "notes": null,
-      "first_year": 2024,
-      "last_year": 2024,
-      "years_active": "2024",
-      "source_orgs": "母基金周刊",
-      "tag_count": 1,
-      "created_at": "2026-04-29 15:10:06",
-      "updated_at": "2026-04-29 15:10:06",
-      "tags": [
-        {
-          "year": 2024,
-          "list_name": "2024新质生产力投资机构软实力GP TOP100",
-          "rank": null,
-          "source_org": "母基金周刊",
-          "category": "母基金/FOF"
-        }
-      ]
-    },
-    {
       "id": 104,
       "name": "海尔资本",
       "type": "产业投资机构/CVC",
@@ -14664,14 +14639,21 @@
       "focus_areas": "硬科技",
       "cases": "云从科技、国华网安、紫光展锐",
       "notes": null,
-      "first_year": 2024,
+      "first_year": 2023,
       "last_year": 2025,
       "years_active": "2024,2025",
       "source_orgs": "投中,母基金周刊,母基金研究中心",
-      "tag_count": 11,
+      "tag_count": 13,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
+        {
+          "year": 2025,
+          "list_name": "2025年中国CVC30强",
+          "rank": null,
+          "source_org": "融中财经",
+          "category": "VC"
+        },
         {
           "year": 2025,
           "list_name": "2025新质生产力投资机构软实力GP TOP100",
@@ -14706,6 +14688,13 @@
           "rank": 43,
           "source_org": "融中财经",
           "category": "PE"
+        },
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": null,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
         },
         {
           "year": 2024,
@@ -14748,31 +14737,6 @@
           "rank": 25,
           "source_org": "母基金研究中心",
           "category": "PE"
-        }
-      ]
-    },
-    {
-      "id": 301,
-      "name": "海尔集团",
-      "type": "产业投资机构/CVC",
-      "fund_scale": "超100亿",
-      "focus_areas": "消费、科技",
-      "cases": "未披露",
-      "notes": null,
-      "first_year": 2025,
-      "last_year": 2025,
-      "years_active": "2025",
-      "source_orgs": null,
-      "tag_count": 1,
-      "created_at": "2026-04-25 02:56:35",
-      "updated_at": "2026-04-25 02:56:35",
-      "tags": [
-        {
-          "year": 2025,
-          "list_name": "2025年中国CVC30强",
-          "rank": null,
-          "source_org": "融中财经",
-          "category": "VC"
         }
       ]
     },
