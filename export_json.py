@@ -55,6 +55,17 @@ output = {
 with open(r'C:\Users\Dylan\WorkBuddy\20260423171621\data.json', 'w', encoding='utf-8') as f:
     json.dump(output, f, ensure_ascii=False, indent=2)
 
+# Update index.html with build timestamp for cache busting
+index_path = r'C:\Users\Dylan\WorkBuddy\20260423171621\index.html'
+with open(index_path, 'r', encoding='utf-8') as f:
+    html = f.read()
+
+new_data_url = f"data.json?v={output['metadata']['generatedAt']}"
+html = html.replace("data.json?v=BUILD_TIME", new_data_url)
+with open(index_path, 'w', encoding='utf-8') as f:
+    f.write(html)
+print(f"Updated index.html with cache-busting URL: {new_data_url}")
+
 print(f"Exported {len(institutions)} institutions to data.json")
 
 # Stats

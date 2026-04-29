@@ -3,6 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="0">
     <title>投资机构数据库 - 2020-2025年度榜单汇总</title>
     <style>
         * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -474,9 +477,10 @@
         }
         
         // ========== 数据加载 ==========
+        const DATA_URL = 'data.json?v=2026-04-30T00:05:38.362252';
         async function loadData() {
             try {
-                const response = await fetch('data.json?t=' + Date.now(), { cache: 'no-cache' });
+                const response = await fetch(DATA_URL, { cache: 'no-cache' });
                 const data = await response.json();
                 allData = data.institutions || [];
                 metadata = data.metadata || {};
