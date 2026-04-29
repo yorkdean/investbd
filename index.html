@@ -519,9 +519,9 @@
                     const haystack = [
                         inst.name,
                         inst.type || '',
-                        inst.focusAreas || '',
+                        inst.focus_areas || '',
                         inst.cases || '',
-                        (inst.tags || []).map(t => t.listName).join(' '),
+                        (inst.tags || []).map(t => t.list_name).join(' '),
                     ].join(' ').toLowerCase();
                     if (!haystack.includes(search)) return false;
                 }
@@ -537,7 +537,7 @@
                 
                 // 来源
                 if (srcFilter) {
-                    const hasSrc = (inst.tags || []).some(t => t.source === srcFilter);
+                    const hasSrc = (inst.tags || []).some(t => t.source_org === srcFilter);
                     if (!hasSrc) return false;
                 }
                 
@@ -592,8 +592,8 @@
                                 <span class="meta-tag type-tag" style="background:${typeColor}20;color:${typeColor}">
                                     ${inst.type || '其他'}
                                 </span>
-                                ${inst.fundScale ? `<span class="meta-tag fund-tag">${inst.fundScale}</span>` : ''}
-                                ${inst.firstYear ? `<span class="meta-tag year-tag">${inst.firstYear}${inst.lastYear && inst.lastYear !== inst.firstYear ? '-' + inst.lastYear : ''}年</span>` : ''}
+                                ${inst.fund_scale ? `<span class="meta-tag fund-tag">${inst.fund_scale}</span>` : ''}
+                                ${inst.first_year ? `<span class="meta-tag year-tag">${inst.first_year}${inst.last_year && inst.last_year !== inst.first_year ? '-' + inst.last_year : ''}年</span>` : ''}
                             </div>
                         </div>
                         <span class="tag-count">${tags.length}条记录</span>
@@ -602,15 +602,15 @@
                         ${topTags.map(t => `
                             <span class="rank-tag">
                                 ${t.year ? `<span class="rank-year">${t.year}</span>` : ''}
-                                ${t.listName}
+                                ${t.list_name}
                                 ${t.rank ? `<span class="rank-num">#${t.rank}</span>` : ''}
                             </span>
                         `).join('')}
                         ${extraCount > 0 ? `<span class="rank-tag" style="color:#999">+${extraCount}更多</span>` : ''}
                     </div>
-                    ${inst.focusAreas ? `
+                    ${inst.focus_areas ? `
                     <div class="focus-areas">
-                        <strong>领域：</strong>${inst.focusAreas}
+                        <strong>领域：</strong>${inst.focus_areas}
                     </div>` : ''}
                     ${inst.cases ? `
                     <div class="focus-areas">
@@ -630,7 +630,7 @@
             // Meta
             const metaParts = [];
             if (inst.type) metaParts.push(`<span class="meta-tag type-tag">${inst.type}</span>`);
-            if (inst.fundScale) metaParts.push(`<span class="meta-tag fund-tag">${inst.fundScale}</span>`);
+            if (inst.fund_scale) metaParts.push(`<span class="meta-tag fund-tag">${inst.fund_scale}</span>`);
             if (inst.yearsActive) metaParts.push(`<span class="meta-tag year-tag">${inst.yearsActive.replace(/,/g, '、')}年</span>`);
             document.getElementById('modalMeta').innerHTML = metaParts.join(' ');
             
@@ -640,18 +640,18 @@
                 const catColor = getCategoryColor(t.category);
                 return `<span class="modal-tag" style="border-left:3px solid ${catColor}">
                     ${t.year ? `<span class="year">${t.year}年</span>` : ''}
-                    ${t.listName}
+                    ${t.list_name}
                     ${t.rank ? `<span class="rank">第${t.rank}名</span>` : ''}
-                    ${t.source ? `<span style="color:#999;margin-left:4px">(${t.source})</span>` : ''}
+                    ${t.source_org ? `<span style="color:#999;margin-left:4px">(${t.source_org})</span>` : ''}
                     ${t.category ? `<span style="color:${catColor};margin-left:4px">${t.category}</span>` : ''}
                 </span>`;
             }).join('') : '<span style="color:#999">暂无榜单记录</span>';
             
             // Focus Areas
             const focusSection = document.getElementById('modalFocusSection');
-            if (inst.focusAreas) {
+            if (inst.focus_areas) {
                 focusSection.style.display = 'block';
-                document.getElementById('modalFocus').textContent = inst.focusAreas;
+                document.getElementById('modalFocus').textContent = inst.focus_areas;
             } else {
                 focusSection.style.display = 'none';
             }
