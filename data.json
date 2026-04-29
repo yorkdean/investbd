@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "totalInstitutions": 570,
-    "totalTags": 1740,
+    "totalInstitutions": 573,
+    "totalTags": 1749,
     "years": [
       2020,
       2021,
@@ -10728,6 +10728,63 @@
       ]
     },
     {
+      "id": 573,
+      "name": "广东恒健资产",
+      "type": "未分类",
+      "fund_scale": "",
+      "focus_areas": "",
+      "cases": "",
+      "notes": null,
+      "first_year": 2024,
+      "last_year": 2024,
+      "years_active": "2024",
+      "source_orgs": "母基金研究中心",
+      "tag_count": 2,
+      "created_at": "2026-04-29 15:20:47",
+      "updated_at": "2026-04-29 15:20:47",
+      "tags": [
+        {
+          "year": 2024,
+          "list_name": "2024最佳'耐心资本'母基金TOP30",
+          "rank": null,
+          "source_org": "母基金研究中心",
+          "category": "母基金/FOF"
+        },
+        {
+          "year": 2024,
+          "list_name": "2024最佳国资市场化母基金TOP20",
+          "rank": 8,
+          "source_org": "母基金研究中心",
+          "category": "母基金/FOF"
+        }
+      ]
+    },
+    {
+      "id": 572,
+      "name": "广东省农业供给侧结构性改革基金",
+      "type": "未分类",
+      "fund_scale": "",
+      "focus_areas": "",
+      "cases": "",
+      "notes": null,
+      "first_year": 2024,
+      "last_year": 2024,
+      "years_active": "2024",
+      "source_orgs": "母基金研究中心",
+      "tag_count": 1,
+      "created_at": "2026-04-29 15:20:47",
+      "updated_at": "2026-04-29 15:20:47",
+      "tags": [
+        {
+          "year": 2024,
+          "list_name": "2024最佳政府引导基金（省级）TOP30",
+          "rank": null,
+          "source_org": "母基金研究中心",
+          "category": "母基金/FOF"
+        }
+      ]
+    },
+    {
       "id": 243,
       "name": "广发信德",
       "type": "国资私募股权投资机构",
@@ -15050,7 +15107,7 @@
       "last_year": 2025,
       "years_active": "2024,2025",
       "source_orgs": "投中,母基金周刊,母基金研究中心",
-      "tag_count": 10,
+      "tag_count": 11,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -15087,6 +15144,13 @@
           "list_name": "融中年度中国私募股权投资机构TOP100",
           "rank": 43,
           "source_org": "融中财经",
+          "category": "PE"
+        },
+        {
+          "year": 2024,
+          "list_name": "2024最佳PE基金TOP50",
+          "rank": 18,
+          "source_org": "母基金研究中心",
           "category": "PE"
         },
         {
@@ -16986,17 +17050,31 @@
       "first_year": 2024,
       "last_year": 2024,
       "years_active": "2024",
-      "source_orgs": "投中,母基金周刊",
-      "tag_count": 4,
+      "source_orgs": "投中,母基金周刊,母基金研究中心",
+      "tag_count": 6,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
+        {
+          "year": 2024,
+          "list_name": "2024 VC基金最佳回报TOP50",
+          "rank": null,
+          "source_org": "母基金研究中心",
+          "category": "VC"
+        },
         {
           "year": 2024,
           "list_name": "2024新质生产力投资机构软实力GP TOP100",
           "rank": null,
           "source_org": "母基金周刊",
           "category": "母基金/FOF"
+        },
+        {
+          "year": 2024,
+          "list_name": "2024最佳医疗健康领域投资机构TOP30",
+          "rank": null,
+          "source_org": "母基金研究中心",
+          "category": "医疗健康"
         },
         {
           "year": 2024,
@@ -17320,6 +17398,38 @@
       ]
     },
     {
+      "id": 571,
+      "name": "粤科母基金",
+      "type": "未分类",
+      "fund_scale": "",
+      "focus_areas": "",
+      "cases": "",
+      "notes": null,
+      "first_year": 2024,
+      "last_year": 2024,
+      "years_active": "2024",
+      "source_orgs": "母基金研究中心",
+      "tag_count": 2,
+      "created_at": "2026-04-29 15:20:47",
+      "updated_at": "2026-04-29 15:20:47",
+      "tags": [
+        {
+          "year": 2024,
+          "list_name": "2024最佳'耐心资本'母基金TOP30",
+          "rank": null,
+          "source_org": "母基金研究中心",
+          "category": "母基金/FOF"
+        },
+        {
+          "year": 2024,
+          "list_name": "2024最佳政府引导基金（省级）TOP30",
+          "rank": 7,
+          "source_org": "母基金研究中心",
+          "category": "母基金/FOF"
+        }
+      ]
+    },
+    {
       "id": 198,
       "name": "粤科金融集团",
       "type": "国资投资机构",
@@ -17330,8 +17440,8 @@
       "first_year": 2020,
       "last_year": 2025,
       "years_active": "2020,2022,2023,2025",
-      "source_orgs": "投中、清科",
-      "tag_count": 8,
+      "source_orgs": "投中、清科,母基金研究中心",
+      "tag_count": 9,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -17355,6 +17465,13 @@
           "rank": 23,
           "source_org": "融中财经",
           "category": "VC"
+        },
+        {
+          "year": 2024,
+          "list_name": "2024最佳国资直投机构TOP50",
+          "rank": 11,
+          "source_org": "母基金研究中心",
+          "category": "国资投资"
         },
         {
           "year": 2024,
