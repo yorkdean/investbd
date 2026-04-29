@@ -469,8 +469,9 @@
                 // 更新统计
                 document.getElementById('totalCount').textContent = metadata.totalInstitutions;
                 document.getElementById('totalTags').textContent = metadata.totalTags;
+                const validYears = metadata.years.filter(y => y !== null && y !== undefined && y !== '');
                 document.getElementById('yearRange').textContent = 
-                    metadata.years.length > 0 ? `${Math.min(...metadata.years)}-${Math.max(...metadata.years)}` : '-';
+                    validYears.length > 0 ? `${Math.min(...validYears)}-${Math.max(...validYears)}` : '-';
                 document.getElementById('sourceCount').textContent = metadata.sources.length;
                 
                 // 填充筛选器
