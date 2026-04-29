@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "totalInstitutions": 549,
-    "totalTags": 1582,
+    "totalInstitutions": 561,
+    "totalTags": 1681,
     "years": [
       2020,
       2021,
@@ -78,7 +78,7 @@
       "last_year": 2024,
       "years_active": "2024",
       "source_orgs": "投中,母基金周刊",
-      "tag_count": 3,
+      "tag_count": 4,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -88,6 +88,13 @@
           "rank": 51,
           "source_org": "融中财经",
           "category": "PE"
+        },
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": null,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
         },
         {
           "year": 2024,
@@ -297,10 +304,17 @@
       "last_year": 2023,
       "years_active": "2023",
       "source_orgs": "母基金周刊",
-      "tag_count": 1,
+      "tag_count": 2,
       "created_at": "2026-04-29 15:05:48",
       "updated_at": "2026-04-29 15:05:48",
       "tags": [
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": null,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
+        },
         {
           "year": 2023,
           "list_name": "2023投资机构软实力排行榜-先进制造TOP20",
@@ -322,7 +336,7 @@
       "last_year": 2025,
       "years_active": "2020,2021,2022,2023,2024,2025",
       "source_orgs": "投中、清科,母基金周刊",
-      "tag_count": 16,
+      "tag_count": 17,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -353,6 +367,13 @@
           "rank": 2,
           "source_org": "融中财经",
           "category": "VC"
+        },
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": 4,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
         },
         {
           "year": 2024,
@@ -559,10 +580,17 @@
       "last_year": 2024,
       "years_active": "2024",
       "source_orgs": "投中,母基金周刊",
-      "tag_count": 2,
+      "tag_count": 3,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": null,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
+        },
         {
           "year": 2024,
           "list_name": "投中2024年度最佳创业投资机构 TOP81",
@@ -1089,7 +1117,7 @@
       "last_year": 2024,
       "years_active": "2024",
       "source_orgs": "投中,母基金周刊",
-      "tag_count": 4,
+      "tag_count": 5,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -1099,6 +1127,13 @@
           "rank": 39,
           "source_org": "融中财经",
           "category": "VC"
+        },
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": null,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
         },
         {
           "year": 2024,
@@ -1134,8 +1169,8 @@
       "first_year": 2020,
       "last_year": 2025,
       "years_active": "2020,2022,2023,2025",
-      "source_orgs": "投中、清科",
-      "tag_count": 8,
+      "source_orgs": "投中、清科,母基金周刊",
+      "tag_count": 9,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -1152,6 +1187,13 @@
           "rank": 15,
           "source_org": "融中财经",
           "category": "VC"
+        },
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": 29,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
         },
         {
           "year": 2024,
@@ -1234,7 +1276,7 @@
       "last_year": 2025,
       "years_active": "2025",
       "source_orgs": "投中,母基金周刊",
-      "tag_count": 5,
+      "tag_count": 6,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -1258,6 +1300,13 @@
           "rank": 12,
           "source_org": "融中财经",
           "category": "PE"
+        },
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": 13,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
         },
         {
           "year": 2024,
@@ -1325,8 +1374,8 @@
       "first_year": 2025,
       "last_year": 2025,
       "years_active": "2025",
-      "source_orgs": null,
-      "tag_count": 3,
+      "source_orgs": "母基金周刊",
+      "tag_count": 4,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -1343,6 +1392,13 @@
           "rank": 26,
           "source_org": "融中财经",
           "category": "PE"
+        },
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": 18,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
         },
         {
           "year": 2024,
@@ -1397,7 +1453,7 @@
       "last_year": 2025,
       "years_active": "2025",
       "source_orgs": "投中,母基金周刊",
-      "tag_count": 4,
+      "tag_count": 5,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -1421,6 +1477,13 @@
           "rank": 40,
           "source_org": "融中财经",
           "category": "PE"
+        },
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": null,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
         },
         {
           "year": 2023,
@@ -1657,10 +1720,17 @@
       "last_year": 2024,
       "years_active": "2024",
       "source_orgs": "投中,母基金周刊",
-      "tag_count": 3,
+      "tag_count": 4,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": null,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
+        },
         {
           "year": 2024,
           "list_name": "投中2024年度最佳私募股权投资机构 TOP54",
@@ -1696,7 +1766,7 @@
       "last_year": 2025,
       "years_active": "2020,2025",
       "source_orgs": "投中、清科,母基金周刊",
-      "tag_count": 11,
+      "tag_count": 12,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -1727,6 +1797,13 @@
           "rank": 1,
           "source_org": "融中财经",
           "category": "早期投资"
+        },
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": 16,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
         },
         {
           "year": 2024,
@@ -1939,8 +2016,8 @@
       "first_year": 2025,
       "last_year": 2025,
       "years_active": "2025",
-      "source_orgs": null,
-      "tag_count": 1,
+      "source_orgs": "母基金周刊",
+      "tag_count": 2,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -1950,6 +2027,13 @@
           "rank": null,
           "source_org": "融中财经",
           "category": "VC"
+        },
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": null,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
         }
       ]
     },
@@ -2124,7 +2208,7 @@
       "last_year": 2025,
       "years_active": "2023,2025",
       "source_orgs": "投中,母基金周刊",
-      "tag_count": 5,
+      "tag_count": 6,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -2134,6 +2218,13 @@
           "rank": 48,
           "source_org": "融中财经",
           "category": "VC"
+        },
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": 22,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
         },
         {
           "year": 2024,
@@ -2241,7 +2332,7 @@
       "last_year": 2020,
       "years_active": "2020",
       "source_orgs": "清科,母基金周刊",
-      "tag_count": 6,
+      "tag_count": 7,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -2251,6 +2342,13 @@
           "rank": 24,
           "source_org": "融中财经",
           "category": "PE"
+        },
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": 23,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
         },
         {
           "year": 2024,
@@ -2354,7 +2452,7 @@
       "last_year": 2025,
       "years_active": "2020,2025",
       "source_orgs": "清科,母基金周刊",
-      "tag_count": 6,
+      "tag_count": 7,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -2371,6 +2469,13 @@
           "rank": 37,
           "source_org": "融中财经",
           "category": "早期投资"
+        },
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": null,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
         },
         {
           "year": 2024,
@@ -2460,7 +2565,7 @@
       "last_year": 2025,
       "years_active": "2020,2025",
       "source_orgs": "清科,母基金周刊",
-      "tag_count": 8,
+      "tag_count": 9,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -2477,6 +2582,13 @@
           "rank": 14,
           "source_org": "融中财经",
           "category": "早期投资"
+        },
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": null,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
         },
         {
           "year": 2024,
@@ -2559,7 +2671,7 @@
       "last_year": 2025,
       "years_active": "2025",
       "source_orgs": "母基金周刊",
-      "tag_count": 2,
+      "tag_count": 3,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -2569,6 +2681,13 @@
           "rank": 36,
           "source_org": "融中财经",
           "category": "PE"
+        },
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": null,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
         },
         {
           "year": 2023,
@@ -2651,7 +2770,7 @@
       "last_year": 2025,
       "years_active": "2021,2022,2023,2025",
       "source_orgs": "投中,母基金周刊",
-      "tag_count": 9,
+      "tag_count": 10,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -2668,6 +2787,13 @@
           "rank": 16,
           "source_org": "融中财经",
           "category": "VC"
+        },
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": 11,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
         },
         {
           "year": 2024,
@@ -2839,10 +2965,17 @@
       "last_year": 2023,
       "years_active": "2023",
       "source_orgs": "母基金周刊",
-      "tag_count": 2,
+      "tag_count": 3,
       "created_at": "2026-04-29 15:05:48",
       "updated_at": "2026-04-29 15:05:48",
       "tags": [
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": null,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
+        },
         {
           "year": 2023,
           "list_name": "2023投资机构软实力GP TOP100",
@@ -3152,7 +3285,7 @@
       "last_year": 2025,
       "years_active": "2022,2025",
       "source_orgs": "投中,母基金周刊",
-      "tag_count": 6,
+      "tag_count": 7,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -3176,6 +3309,13 @@
           "rank": 89,
           "source_org": "融中财经",
           "category": "VC"
+        },
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": null,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
         },
         {
           "year": 2024,
@@ -3364,10 +3504,17 @@
       "last_year": 2024,
       "years_active": "2024",
       "source_orgs": "投中,母基金周刊",
-      "tag_count": 2,
+      "tag_count": 3,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": null,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
+        },
         {
           "year": 2024,
           "list_name": "投中2024年度最佳创业投资机构 TOP67",
@@ -3523,7 +3670,7 @@
       "last_year": 2025,
       "years_active": "2020,2025",
       "source_orgs": "清科,母基金周刊",
-      "tag_count": 5,
+      "tag_count": 6,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -3533,6 +3680,13 @@
           "rank": null,
           "source_org": "融中财经",
           "category": "半导体"
+        },
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": 30,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
         },
         {
           "year": 2024,
@@ -3793,10 +3947,17 @@
       "last_year": null,
       "years_active": null,
       "source_orgs": "母基金周刊",
-      "tag_count": 6,
+      "tag_count": 7,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": 21,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
+        },
         {
           "year": 2024,
           "list_name": "36氪2024年度中国股权投资行业创业投资机构100",
@@ -3999,6 +4160,31 @@
       ]
     },
     {
+      "id": 550,
+      "name": "兴泰资本",
+      "type": "未分类",
+      "fund_scale": "",
+      "focus_areas": "",
+      "cases": "",
+      "notes": null,
+      "first_year": 2024,
+      "last_year": 2024,
+      "years_active": "2024",
+      "source_orgs": "母基金周刊",
+      "tag_count": 1,
+      "created_at": "2026-04-29 15:10:06",
+      "updated_at": "2026-04-29 15:10:06",
+      "tags": [
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": 15,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
+        }
+      ]
+    },
+    {
       "id": 359,
       "name": "兴湘资本",
       "type": "国资投资机构",
@@ -4131,7 +4317,7 @@
       "last_year": 2025,
       "years_active": "2020,2025",
       "source_orgs": "清科,母基金周刊",
-      "tag_count": 3,
+      "tag_count": 4,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -4141,6 +4327,13 @@
           "rank": 20,
           "source_org": "融中财经",
           "category": "PE"
+        },
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": 12,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
         },
         {
           "year": 2023,
@@ -5048,8 +5241,8 @@
       "first_year": 2025,
       "last_year": 2025,
       "years_active": "2025",
-      "source_orgs": "投中",
-      "tag_count": 6,
+      "source_orgs": "投中,母基金周刊",
+      "tag_count": 7,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -5080,6 +5273,13 @@
           "rank": 29,
           "source_org": "融中财经",
           "category": "PE"
+        },
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": null,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
         },
         {
           "year": 2024,
@@ -5428,8 +5628,8 @@
       "first_year": 2025,
       "last_year": 2025,
       "years_active": "2025",
-      "source_orgs": null,
-      "tag_count": 3,
+      "source_orgs": "母基金周刊",
+      "tag_count": 4,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -5446,6 +5646,13 @@
           "rank": 39,
           "source_org": "融中财经",
           "category": "PE"
+        },
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": null,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
         },
         {
           "year": 2024,
@@ -5507,7 +5714,7 @@
       "last_year": 2024,
       "years_active": "2022,2023,2024",
       "source_orgs": "投中,母基金周刊",
-      "tag_count": 8,
+      "tag_count": 9,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -5517,6 +5724,13 @@
           "rank": 63,
           "source_org": "融中财经",
           "category": "VC"
+        },
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": null,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
         },
         {
           "year": 2024,
@@ -5779,7 +5993,7 @@
       "last_year": 2025,
       "years_active": "2022,2023,2025",
       "source_orgs": "投中,母基金周刊",
-      "tag_count": 8,
+      "tag_count": 9,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -5796,6 +6010,13 @@
           "rank": 28,
           "source_org": "融中财经",
           "category": "VC"
+        },
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": null,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
         },
         {
           "year": 2024,
@@ -5959,10 +6180,17 @@
       "last_year": 2020,
       "years_active": "2020",
       "source_orgs": "清科,母基金周刊",
-      "tag_count": 4,
+      "tag_count": 5,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": 14,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
+        },
         {
           "year": 2023,
           "list_name": "2023投资机构软实力GP TOP100",
@@ -6541,6 +6769,31 @@
       ]
     },
     {
+      "id": 554,
+      "name": "合肥高投",
+      "type": "未分类",
+      "fund_scale": "",
+      "focus_areas": "",
+      "cases": "",
+      "notes": null,
+      "first_year": 2024,
+      "last_year": 2024,
+      "years_active": "2024",
+      "source_orgs": "母基金周刊",
+      "tag_count": 1,
+      "created_at": "2026-04-29 15:10:06",
+      "updated_at": "2026-04-29 15:10:06",
+      "tags": [
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": null,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
+        }
+      ]
+    },
+    {
       "id": 299,
       "name": "吉利控股集团",
       "type": "产业投资机构/CVC",
@@ -6634,7 +6887,7 @@
       "last_year": 2025,
       "years_active": "2020,2022,2023,2025",
       "source_orgs": "投中、清科,母基金周刊",
-      "tag_count": 11,
+      "tag_count": 12,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -6651,6 +6904,13 @@
           "rank": 8,
           "source_org": "融中财经",
           "category": "VC"
+        },
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": 24,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
         },
         {
           "year": 2024,
@@ -6754,7 +7014,7 @@
       "last_year": 2025,
       "years_active": "2020,2021,2022,2023,2024,2025",
       "source_orgs": "投中、清科,母基金周刊",
-      "tag_count": 14,
+      "tag_count": 15,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -6778,6 +7038,13 @@
           "rank": 4,
           "source_org": "融中财经",
           "category": "VC"
+        },
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": 6,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
         },
         {
           "year": 2024,
@@ -6859,6 +7126,31 @@
       ]
     },
     {
+      "id": 558,
+      "name": "启承资本",
+      "type": "未分类",
+      "fund_scale": "",
+      "focus_areas": "",
+      "cases": "",
+      "notes": null,
+      "first_year": 2024,
+      "last_year": 2024,
+      "years_active": "2024",
+      "source_orgs": "母基金周刊",
+      "tag_count": 1,
+      "created_at": "2026-04-29 15:10:06",
+      "updated_at": "2026-04-29 15:10:06",
+      "tags": [
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": null,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
+        }
+      ]
+    },
+    {
       "id": 170,
       "name": "启明创投",
       "type": "创业投资机构",
@@ -6870,7 +7162,7 @@
       "last_year": 2025,
       "years_active": "2020,2021,2022,2023,2025",
       "source_orgs": "投中、清科,母基金周刊",
-      "tag_count": 14,
+      "tag_count": 15,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -6894,6 +7186,13 @@
           "rank": 6,
           "source_org": "融中财经",
           "category": "VC"
+        },
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": 8,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
         },
         {
           "year": 2024,
@@ -7057,10 +7356,17 @@
       "last_year": 2023,
       "years_active": "2023",
       "source_orgs": "母基金周刊",
-      "tag_count": 1,
+      "tag_count": 2,
       "created_at": "2026-04-29 15:05:48",
       "updated_at": "2026-04-29 15:05:48",
       "tags": [
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": null,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
+        },
         {
           "year": 2023,
           "list_name": "2023投资机构软实力GP TOP100",
@@ -7196,7 +7502,7 @@
       "last_year": 2025,
       "years_active": "2020,2025",
       "source_orgs": "清科,母基金周刊",
-      "tag_count": 6,
+      "tag_count": 7,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -7213,6 +7519,13 @@
           "rank": 4,
           "source_org": "融中财经",
           "category": "早期投资"
+        },
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": null,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
         },
         {
           "year": 2024,
@@ -7280,8 +7593,8 @@
       "first_year": 2025,
       "last_year": 2025,
       "years_active": "2025",
-      "source_orgs": null,
-      "tag_count": 3,
+      "source_orgs": "母基金周刊",
+      "tag_count": 4,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -7298,6 +7611,13 @@
           "rank": 46,
           "source_org": "融中财经",
           "category": "PE"
+        },
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": null,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
         },
         {
           "year": 2024,
@@ -7536,8 +7856,8 @@
       "first_year": 2025,
       "last_year": 2025,
       "years_active": "2025",
-      "source_orgs": null,
-      "tag_count": 3,
+      "source_orgs": "母基金周刊",
+      "tag_count": 4,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -7554,6 +7874,13 @@
           "rank": 66,
           "source_org": "融中财经",
           "category": "PE"
+        },
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": 5,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
         },
         {
           "year": 2024,
@@ -7601,7 +7928,7 @@
       "last_year": 2025,
       "years_active": "2020,2024,2025",
       "source_orgs": "投中、清科,母基金周刊",
-      "tag_count": 7,
+      "tag_count": 8,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -7618,6 +7945,13 @@
           "rank": 38,
           "source_org": "融中财经",
           "category": "PE"
+        },
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": 28,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
         },
         {
           "year": 2024,
@@ -7766,8 +8100,8 @@
       "first_year": 2020,
       "last_year": 2025,
       "years_active": "2020,2022,2025",
-      "source_orgs": "投中、清科",
-      "tag_count": 7,
+      "source_orgs": "投中、清科,母基金周刊",
+      "tag_count": 8,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -7791,6 +8125,13 @@
           "rank": 24,
           "source_org": "融中财经",
           "category": "VC"
+        },
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": null,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
         },
         {
           "year": 2024,
@@ -7958,7 +8299,7 @@
       "last_year": 2025,
       "years_active": "2025",
       "source_orgs": "母基金周刊",
-      "tag_count": 5,
+      "tag_count": 6,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -7975,6 +8316,13 @@
           "rank": 6,
           "source_org": "融中财经",
           "category": "PE"
+        },
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": null,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
         },
         {
           "year": 2024,
@@ -8408,6 +8756,31 @@
       ]
     },
     {
+      "id": 552,
+      "name": "国际创投",
+      "type": "未分类",
+      "fund_scale": "",
+      "focus_areas": "",
+      "cases": "",
+      "notes": null,
+      "first_year": 2024,
+      "last_year": 2024,
+      "years_active": "2024",
+      "source_orgs": "母基金周刊",
+      "tag_count": 1,
+      "created_at": "2026-04-29 15:10:06",
+      "updated_at": "2026-04-29 15:10:06",
+      "tags": [
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": null,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
+        }
+      ]
+    },
+    {
       "id": 356,
       "name": "国际国方",
       "type": "国资投资机构",
@@ -8696,10 +9069,17 @@
       "last_year": 2024,
       "years_active": "2024",
       "source_orgs": "投中,母基金周刊",
-      "tag_count": 3,
+      "tag_count": 4,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": 17,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
+        },
         {
           "year": 2024,
           "list_name": "投中2024年度最佳创业投资机构 TOP66",
@@ -8940,7 +9320,7 @@
       "last_year": 2025,
       "years_active": "2023,2025",
       "source_orgs": "投中,母基金周刊",
-      "tag_count": 5,
+      "tag_count": 6,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -8957,6 +9337,13 @@
           "rank": 81,
           "source_org": "融中财经",
           "category": "VC"
+        },
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": null,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
         },
         {
           "year": 2024,
@@ -9509,10 +9896,17 @@
       "last_year": 2023,
       "years_active": "2023",
       "source_orgs": "母基金周刊",
-      "tag_count": 2,
+      "tag_count": 3,
       "created_at": "2026-04-29 15:05:48",
       "updated_at": "2026-04-29 15:05:48",
       "tags": [
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": 19,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
+        },
         {
           "year": 2023,
           "list_name": "2023投资机构软实力GP TOP100",
@@ -9849,8 +10243,8 @@
       "first_year": 2024,
       "last_year": 2024,
       "years_active": "2024",
-      "source_orgs": "投中",
-      "tag_count": 3,
+      "source_orgs": "投中,母基金周刊",
+      "tag_count": 4,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -9860,6 +10254,13 @@
           "rank": 61,
           "source_org": "融中财经",
           "category": "PE"
+        },
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": null,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
         },
         {
           "year": 2024,
@@ -9938,8 +10339,8 @@
       "first_year": 2020,
       "last_year": 2025,
       "years_active": "2020,2021,2025",
-      "source_orgs": "投中、清科",
-      "tag_count": 5,
+      "source_orgs": "投中、清科,母基金周刊",
+      "tag_count": 6,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -9956,6 +10357,13 @@
           "rank": 22,
           "source_org": "融中财经",
           "category": "PE"
+        },
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": null,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
         },
         {
           "year": 2024,
@@ -10236,6 +10644,31 @@
           "rank": 42,
           "source_org": "融中财经",
           "category": "PE"
+        }
+      ]
+    },
+    {
+      "id": 557,
+      "name": "康桥资本 CBC Group",
+      "type": "未分类",
+      "fund_scale": "",
+      "focus_areas": "",
+      "cases": "",
+      "notes": null,
+      "first_year": 2024,
+      "last_year": 2024,
+      "years_active": "2024",
+      "source_orgs": "母基金周刊",
+      "tag_count": 1,
+      "created_at": "2026-04-29 15:10:06",
+      "updated_at": "2026-04-29 15:10:06",
+      "tags": [
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": null,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
         }
       ]
     },
@@ -10556,8 +10989,8 @@
       "first_year": 2020,
       "last_year": 2024,
       "years_active": "2020,2024",
-      "source_orgs": "投中、清科",
-      "tag_count": 5,
+      "source_orgs": "投中、清科,母基金周刊",
+      "tag_count": 6,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -10567,6 +11000,13 @@
           "rank": 20,
           "source_org": "融中财经",
           "category": "PE"
+        },
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": 27,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
         },
         {
           "year": 2024,
@@ -10660,10 +11100,17 @@
       "last_year": 2024,
       "years_active": "2020,2022,2023,2024",
       "source_orgs": "投中、清科,母基金周刊",
-      "tag_count": 6,
+      "tag_count": 7,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": null,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
+        },
         {
           "year": 2024,
           "list_name": "投中2024年度最佳创业投资机构 TOP48",
@@ -10759,10 +11206,17 @@
       "last_year": 2024,
       "years_active": "2024",
       "source_orgs": "投中,母基金周刊",
-      "tag_count": 3,
+      "tag_count": 4,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": null,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
+        },
         {
           "year": 2024,
           "list_name": "投中2024年度最佳私募股权投资机构 TOP63",
@@ -10880,7 +11334,7 @@
       "last_year": 2025,
       "years_active": "2025",
       "source_orgs": "母基金周刊",
-      "tag_count": 7,
+      "tag_count": 8,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -10904,6 +11358,13 @@
           "rank": 18,
           "source_org": "融中财经",
           "category": "PE"
+        },
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": 26,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
         },
         {
           "year": 2024,
@@ -11004,10 +11465,17 @@
       "last_year": 2023,
       "years_active": "2023",
       "source_orgs": "母基金周刊",
-      "tag_count": 1,
+      "tag_count": 2,
       "created_at": "2026-04-29 15:05:48",
       "updated_at": "2026-04-29 15:05:48",
       "tags": [
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": null,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
+        },
         {
           "year": 2023,
           "list_name": "2023投资机构软实力排行榜-医疗健康TOP20",
@@ -11029,7 +11497,7 @@
       "last_year": 2023,
       "years_active": "2020,2022,2023",
       "source_orgs": "投中、清科,母基金周刊",
-      "tag_count": 9,
+      "tag_count": 10,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -11039,6 +11507,13 @@
           "rank": 91,
           "source_org": "融中财经",
           "category": "VC"
+        },
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": null,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
         },
         {
           "year": 2024,
@@ -11671,7 +12146,7 @@
       "last_year": 2024,
       "years_active": "2024",
       "source_orgs": "投中,母基金周刊",
-      "tag_count": 5,
+      "tag_count": 6,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -11681,6 +12156,13 @@
           "rank": 86,
           "source_org": "融中财经",
           "category": "VC"
+        },
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": null,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
         },
         {
           "year": 2024,
@@ -11723,8 +12205,8 @@
       "first_year": 2024,
       "last_year": 2024,
       "years_active": "2024",
-      "source_orgs": "投中",
-      "tag_count": 3,
+      "source_orgs": "投中,母基金周刊",
+      "tag_count": 4,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -11734,6 +12216,13 @@
           "rank": 44,
           "source_org": "融中财经",
           "category": "PE"
+        },
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": null,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
         },
         {
           "year": 2024,
@@ -11763,10 +12252,17 @@
       "last_year": 2024,
       "years_active": "2023,2024",
       "source_orgs": "投中,母基金周刊",
-      "tag_count": 5,
+      "tag_count": 6,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": null,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
+        },
         {
           "year": 2024,
           "list_name": "投中2024年度最佳创业投资机构 TOP49",
@@ -11869,6 +12365,31 @@
       ]
     },
     {
+      "id": 559,
+      "name": "无锡新尚资本",
+      "type": "未分类",
+      "fund_scale": "",
+      "focus_areas": "",
+      "cases": "",
+      "notes": null,
+      "first_year": 2024,
+      "last_year": 2024,
+      "years_active": "2024",
+      "source_orgs": "母基金周刊",
+      "tag_count": 1,
+      "created_at": "2026-04-29 15:10:06",
+      "updated_at": "2026-04-29 15:10:06",
+      "tags": [
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": null,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
+        }
+      ]
+    },
+    {
       "id": 470,
       "name": "无限基金SEEFund",
       "type": "未分类",
@@ -11930,10 +12451,17 @@
       "last_year": 2023,
       "years_active": "2023",
       "source_orgs": "母基金周刊",
-      "tag_count": 2,
+      "tag_count": 3,
       "created_at": "2026-04-29 15:05:48",
       "updated_at": "2026-04-29 15:05:48",
       "tags": [
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": null,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
+        },
         {
           "year": 2023,
           "list_name": "2023投资机构软实力GP TOP100",
@@ -11962,10 +12490,17 @@
       "last_year": 2023,
       "years_active": "2023",
       "source_orgs": "母基金周刊",
-      "tag_count": 1,
+      "tag_count": 2,
       "created_at": "2026-04-29 15:05:48",
       "updated_at": "2026-04-29 15:05:48",
       "tags": [
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": null,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
+        },
         {
           "year": 2023,
           "list_name": "2023投资机构软实力排行榜-医疗健康TOP20",
@@ -12129,10 +12664,17 @@
       "last_year": 2023,
       "years_active": "2023",
       "source_orgs": "母基金周刊",
-      "tag_count": 2,
+      "tag_count": 3,
       "created_at": "2026-04-29 15:05:48",
       "updated_at": "2026-04-29 15:05:48",
       "tags": [
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": null,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
+        },
         {
           "year": 2023,
           "list_name": "2023投资机构软实力GP TOP100",
@@ -12378,7 +12920,7 @@
       "last_year": 2025,
       "years_active": "2020,2022,2023,2025",
       "source_orgs": "投中、清科,母基金周刊",
-      "tag_count": 8,
+      "tag_count": 9,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -12395,6 +12937,13 @@
           "rank": 13,
           "source_org": "融中财经",
           "category": "VC"
+        },
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": null,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
         },
         {
           "year": 2024,
@@ -12694,10 +13243,17 @@
       "last_year": 2024,
       "years_active": "2024",
       "source_orgs": "投中,母基金周刊",
-      "tag_count": 3,
+      "tag_count": 4,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": null,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
+        },
         {
           "year": 2024,
           "list_name": "投中2024年度最佳创业投资机构 TOP96",
@@ -12758,7 +13314,7 @@
       "last_year": 2025,
       "years_active": "2020,2022,2023,2025",
       "source_orgs": "投中、清科,母基金周刊",
-      "tag_count": 10,
+      "tag_count": 11,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -12775,6 +13331,13 @@
           "rank": 10,
           "source_org": "融中财经",
           "category": "VC"
+        },
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": null,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
         },
         {
           "year": 2024,
@@ -12878,7 +13441,7 @@
       "last_year": 2025,
       "years_active": "2020,2025",
       "source_orgs": "清科,母基金周刊",
-      "tag_count": 8,
+      "tag_count": 9,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -12902,6 +13465,13 @@
           "rank": 6,
           "source_org": "融中财经",
           "category": "早期投资"
+        },
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": null,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
         },
         {
           "year": 2024,
@@ -12952,10 +13522,17 @@
       "last_year": 2023,
       "years_active": "2023",
       "source_orgs": "母基金周刊",
-      "tag_count": 1,
+      "tag_count": 2,
       "created_at": "2026-04-29 15:05:48",
       "updated_at": "2026-04-29 15:05:48",
       "tags": [
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": null,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
+        },
         {
           "year": 2023,
           "list_name": "2023投资机构软实力排行榜-创新驱动TOP20",
@@ -13499,10 +14076,17 @@
       "last_year": 2023,
       "years_active": "2023",
       "source_orgs": "母基金周刊",
-      "tag_count": 2,
+      "tag_count": 3,
       "created_at": "2026-04-29 15:05:48",
       "updated_at": "2026-04-29 15:05:48",
       "tags": [
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": null,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
+        },
         {
           "year": 2023,
           "list_name": "2023投资机构软实力GP TOP100",
@@ -13698,7 +14282,7 @@
       "last_year": 2025,
       "years_active": "2025",
       "source_orgs": "母基金周刊",
-      "tag_count": 5,
+      "tag_count": 6,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -13718,6 +14302,13 @@
         },
         {
           "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": null,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
+        },
+        {
+          "year": 2024,
           "list_name": "清科中国创业投资机构100强",
           "rank": 27,
           "source_org": "清科",
@@ -13733,6 +14324,31 @@
         {
           "year": 2023,
           "list_name": "2023投资机构软实力GP TOP100",
+          "rank": null,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
+        }
+      ]
+    },
+    {
+      "id": 556,
+      "name": "济峰资本",
+      "type": "未分类",
+      "fund_scale": "",
+      "focus_areas": "",
+      "cases": "",
+      "notes": null,
+      "first_year": 2024,
+      "last_year": 2024,
+      "years_active": "2024",
+      "source_orgs": "母基金周刊",
+      "tag_count": 1,
+      "created_at": "2026-04-29 15:10:06",
+      "updated_at": "2026-04-29 15:10:06",
+      "tags": [
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
           "rank": null,
           "source_org": "母基金周刊",
           "category": "母基金/FOF"
@@ -13996,6 +14612,31 @@
       ]
     },
     {
+      "id": 553,
+      "name": "海尔创投",
+      "type": "未分类",
+      "fund_scale": "",
+      "focus_areas": "",
+      "cases": "",
+      "notes": null,
+      "first_year": 2024,
+      "last_year": 2024,
+      "years_active": "2024",
+      "source_orgs": "母基金周刊",
+      "tag_count": 1,
+      "created_at": "2026-04-29 15:10:06",
+      "updated_at": "2026-04-29 15:10:06",
+      "tags": [
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": null,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
+        }
+      ]
+    },
+    {
       "id": 104,
       "name": "海尔资本",
       "type": "产业投资机构/CVC",
@@ -14106,7 +14747,7 @@
       "last_year": 2025,
       "years_active": "2025",
       "source_orgs": "母基金周刊",
-      "tag_count": 3,
+      "tag_count": 4,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -14116,6 +14757,13 @@
           "rank": 12,
           "source_org": "融中财经",
           "category": "PE"
+        },
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": null,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
         },
         {
           "year": 2023,
@@ -14333,7 +14981,7 @@
       "last_year": 2025,
       "years_active": "2020,2021,2022,2023,2024,2025",
       "source_orgs": "投中、清科,母基金周刊",
-      "tag_count": 15,
+      "tag_count": 16,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -14357,6 +15005,13 @@
           "rank": null,
           "source_org": "投中",
           "category": "VC"
+        },
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": 2,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
         },
         {
           "year": 2024,
@@ -14907,7 +15562,7 @@
       "last_year": 2025,
       "years_active": "2020,2022,2023,2025",
       "source_orgs": "投中、清科,母基金周刊",
-      "tag_count": 11,
+      "tag_count": 12,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -14931,6 +15586,13 @@
           "rank": 31,
           "source_org": "融中财经",
           "category": "VC"
+        },
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": 20,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
         },
         {
           "year": 2024,
@@ -15194,10 +15856,17 @@
       "last_year": 2023,
       "years_active": "2023",
       "source_orgs": "母基金周刊",
-      "tag_count": 2,
+      "tag_count": 3,
       "created_at": "2026-04-29 15:05:48",
       "updated_at": "2026-04-29 15:05:48",
       "tags": [
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": null,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
+        },
         {
           "year": 2023,
           "list_name": "2023投资机构软实力GP TOP100",
@@ -15788,6 +16457,31 @@
       ]
     },
     {
+      "id": 561,
+      "name": "知壹投资",
+      "type": "未分类",
+      "fund_scale": "",
+      "focus_areas": "",
+      "cases": "",
+      "notes": null,
+      "first_year": 2024,
+      "last_year": 2024,
+      "years_active": "2024",
+      "source_orgs": "母基金周刊",
+      "tag_count": 1,
+      "created_at": "2026-04-29 15:10:06",
+      "updated_at": "2026-04-29 15:10:06",
+      "tags": [
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": null,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
+        }
+      ]
+    },
+    {
       "id": 325,
       "name": "砺思资本",
       "type": "创业投资机构",
@@ -15838,10 +16532,17 @@
       "last_year": 2024,
       "years_active": "2024",
       "source_orgs": "投中,母基金周刊",
-      "tag_count": 3,
+      "tag_count": 4,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": null,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
+        },
         {
           "year": 2024,
           "list_name": "投中2024年度最佳创业投资机构 TOP76",
@@ -15941,7 +16642,7 @@
       "last_year": 2025,
       "years_active": "2022,2023,2025",
       "source_orgs": "投中,母基金周刊",
-      "tag_count": 8,
+      "tag_count": 9,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -15958,6 +16659,13 @@
           "rank": 47,
           "source_org": "融中财经",
           "category": "VC"
+        },
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": null,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
         },
         {
           "year": 2024,
@@ -16313,7 +17021,7 @@
       "last_year": 2025,
       "years_active": "2020,2021,2022,2023,2024,2025",
       "source_orgs": "投中、清科,母基金周刊",
-      "tag_count": 18,
+      "tag_count": 19,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -16344,6 +17052,13 @@
           "rank": 1,
           "source_org": "融中财经",
           "category": "PE"
+        },
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": 1,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
         },
         {
           "year": 2024,
@@ -16606,7 +17321,7 @@
       "last_year": 2025,
       "years_active": "2020,2021,2022,2023,2025",
       "source_orgs": "投中、清科,母基金周刊",
-      "tag_count": 12,
+      "tag_count": 13,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -16623,6 +17338,13 @@
           "rank": 9,
           "source_org": "融中财经",
           "category": "VC"
+        },
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": 10,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
         },
         {
           "year": 2024,
@@ -16932,7 +17654,7 @@
       "last_year": 2025,
       "years_active": "2025",
       "source_orgs": "母基金周刊",
-      "tag_count": 5,
+      "tag_count": 6,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -16949,6 +17671,13 @@
           "rank": 45,
           "source_org": "融中财经",
           "category": "早期投资"
+        },
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": null,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
         },
         {
           "year": 2024,
@@ -17042,7 +17771,7 @@
       "last_year": 2025,
       "years_active": "2020,2025",
       "source_orgs": "清科,母基金周刊",
-      "tag_count": 6,
+      "tag_count": 7,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -17059,6 +17788,13 @@
           "rank": 11,
           "source_org": "融中财经",
           "category": "早期投资"
+        },
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": null,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
         },
         {
           "year": 2024,
@@ -17102,7 +17838,7 @@
       "last_year": 2025,
       "years_active": "2020,2022,2023,2025",
       "source_orgs": "投中、清科,母基金周刊",
-      "tag_count": 14,
+      "tag_count": 15,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -17133,6 +17869,13 @@
           "rank": 38,
           "source_org": "融中财经",
           "category": "VC"
+        },
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": 9,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
         },
         {
           "year": 2024,
@@ -17412,6 +18155,31 @@
           "rank": null,
           "source_org": "清科",
           "category": "PE"
+        }
+      ]
+    },
+    {
+      "id": 560,
+      "name": "致道资本",
+      "type": "未分类",
+      "fund_scale": "",
+      "focus_areas": "",
+      "cases": "",
+      "notes": null,
+      "first_year": 2024,
+      "last_year": 2024,
+      "years_active": "2024",
+      "source_orgs": "母基金周刊",
+      "tag_count": 1,
+      "created_at": "2026-04-29 15:10:06",
+      "updated_at": "2026-04-29 15:10:06",
+      "tags": [
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": null,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
         }
       ]
     },
@@ -17714,10 +18482,17 @@
       "last_year": 2023,
       "years_active": "2023",
       "source_orgs": "母基金周刊",
-      "tag_count": 1,
+      "tag_count": 2,
       "created_at": "2026-04-29 15:05:48",
       "updated_at": "2026-04-29 15:05:48",
       "tags": [
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": null,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
+        },
         {
           "year": 2023,
           "list_name": "2023投资机构软实力排行榜-服务赋能TOP20",
@@ -18057,6 +18832,31 @@
           "rank": 3,
           "source_org": "清科",
           "category": "国资投资"
+        }
+      ]
+    },
+    {
+      "id": 551,
+      "name": "财通资本",
+      "type": "未分类",
+      "fund_scale": "",
+      "focus_areas": "",
+      "cases": "",
+      "notes": null,
+      "first_year": 2024,
+      "last_year": 2024,
+      "years_active": "2024",
+      "source_orgs": "母基金周刊",
+      "tag_count": 1,
+      "created_at": "2026-04-29 15:10:06",
+      "updated_at": "2026-04-29 15:10:06",
+      "tags": [
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": null,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
         }
       ]
     },
@@ -18459,10 +19259,17 @@
       "last_year": 2024,
       "years_active": "2023,2024",
       "source_orgs": "投中,母基金周刊",
-      "tag_count": 6,
+      "tag_count": 7,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": null,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
+        },
         {
           "year": 2024,
           "list_name": "投中2024年度最佳创业投资机构 TOP62",
@@ -18519,7 +19326,7 @@
       "last_year": 2025,
       "years_active": "2020,2021,2022,2023,2025",
       "source_orgs": "投中、清科,母基金周刊",
-      "tag_count": 11,
+      "tag_count": 12,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -18536,6 +19343,13 @@
           "rank": 5,
           "source_org": "融中财经",
           "category": "VC"
+        },
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": 3,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
         },
         {
           "year": 2024,
@@ -18709,8 +19523,8 @@
       "first_year": 2024,
       "last_year": 2024,
       "years_active": "2024",
-      "source_orgs": "投中",
-      "tag_count": 4,
+      "source_orgs": "投中,母基金周刊",
+      "tag_count": 5,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -18720,6 +19534,13 @@
           "rank": 50,
           "source_org": "融中财经",
           "category": "VC"
+        },
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": null,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
         },
         {
           "year": 2024,
@@ -18947,11 +19768,18 @@
       "first_year": 2020,
       "last_year": 2024,
       "years_active": "2020,2024",
-      "source_orgs": "投中、清科",
-      "tag_count": 3,
+      "source_orgs": "投中、清科,母基金周刊",
+      "tag_count": 4,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": null,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
+        },
         {
           "year": 2024,
           "list_name": "投中2024年度最佳创业投资机构 TOP65",
@@ -19093,6 +19921,31 @@
       ]
     },
     {
+      "id": 555,
+      "name": "金浦智能",
+      "type": "未分类",
+      "fund_scale": "",
+      "focus_areas": "",
+      "cases": "",
+      "notes": null,
+      "first_year": 2024,
+      "last_year": 2024,
+      "years_active": "2024",
+      "source_orgs": "母基金周刊",
+      "tag_count": 1,
+      "created_at": "2026-04-29 15:10:06",
+      "updated_at": "2026-04-29 15:10:06",
+      "tags": [
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": null,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
+        }
+      ]
+    },
+    {
       "id": 387,
       "name": "金石投资",
       "type": "国资私募股权投资机构",
@@ -19168,10 +20021,17 @@
       "last_year": 2024,
       "years_active": "2024",
       "source_orgs": "投中,母基金周刊",
-      "tag_count": 3,
+      "tag_count": 4,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": 25,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
+        },
         {
           "year": 2024,
           "list_name": "投中2024年度最佳私募股权投资机构 TOP71",
@@ -19310,7 +20170,7 @@
       "last_year": 2025,
       "years_active": "2020,2022,2023,2025",
       "source_orgs": "投中、清科,母基金周刊",
-      "tag_count": 9,
+      "tag_count": 10,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -19327,6 +20187,13 @@
           "rank": 46,
           "source_org": "融中财经",
           "category": "VC"
+        },
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": 7,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
         },
         {
           "year": 2024,
@@ -19674,8 +20541,8 @@
       "first_year": 2024,
       "last_year": 2025,
       "years_active": "2024,2025",
-      "source_orgs": "投中",
-      "tag_count": 2,
+      "source_orgs": "投中,母基金周刊",
+      "tag_count": 3,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -19684,6 +20551,13 @@
           "list_name": "投中2025年度中国最佳母基金TOP20",
           "rank": 20,
           "source_org": "投中",
+          "category": "母基金/FOF"
+        },
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": null,
+          "source_org": "母基金周刊",
           "category": "母基金/FOF"
         },
         {
@@ -19828,7 +20702,7 @@
       "last_year": 2025,
       "years_active": "2025",
       "source_orgs": "母基金周刊",
-      "tag_count": 5,
+      "tag_count": 6,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -19845,6 +20719,13 @@
           "rank": 7,
           "source_org": "融中财经",
           "category": "早期投资"
+        },
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": null,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
         },
         {
           "year": 2024,
@@ -20736,10 +21617,17 @@
       "last_year": 2023,
       "years_active": "2023",
       "source_orgs": "母基金周刊",
-      "tag_count": 1,
+      "tag_count": 2,
       "created_at": "2026-04-29 15:05:48",
       "updated_at": "2026-04-29 15:05:48",
       "tags": [
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": null,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
+        },
         {
           "year": 2023,
           "list_name": "2023投资机构软实力排行榜-新能源TOP20",
@@ -20806,11 +21694,18 @@
       "first_year": 2024,
       "last_year": 2024,
       "years_active": "2024",
-      "source_orgs": "投中",
-      "tag_count": 1,
+      "source_orgs": "投中,母基金周刊",
+      "tag_count": 2,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": null,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
+        },
         {
           "year": 2024,
           "list_name": "投中2024年度最佳早期创业投资机构 TOP38",
@@ -20831,8 +21726,8 @@
       "first_year": 2025,
       "last_year": 2025,
       "years_active": "2025",
-      "source_orgs": null,
-      "tag_count": 2,
+      "source_orgs": "母基金周刊",
+      "tag_count": 3,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -20842,6 +21737,13 @@
           "rank": null,
           "source_org": "融中财经",
           "category": "早期投资"
+        },
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": null,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
         },
         {
           "year": 2024,
@@ -20963,7 +21865,7 @@
       "last_year": 2025,
       "years_active": "2025",
       "source_orgs": "母基金周刊",
-      "tag_count": 3,
+      "tag_count": 4,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -20973,6 +21875,13 @@
           "rank": null,
           "source_org": "融中财经",
           "category": "医疗健康"
+        },
+        {
+          "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": null,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
         },
         {
           "year": 2023,
