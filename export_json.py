@@ -30,7 +30,7 @@ for row in cur.fetchall():
 cur.execute("SELECT COUNT(*) FROM institution_tags")
 total_tags = cur.fetchone()[0]
 
-cur.execute("SELECT DISTINCT year FROM institution_tags ORDER BY year")
+cur.execute("SELECT DISTINCT year FROM institution_tags WHERE year IS NOT NULL ORDER BY year")
 years = [row[0] for row in cur.fetchall()]
 
 cur.execute("SELECT DISTINCT source_org FROM institution_tags WHERE source_org IS NOT NULL AND source_org != '' ORDER BY source_org")
