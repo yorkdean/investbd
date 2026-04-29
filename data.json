@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "totalInstitutions": 574,
-    "totalTags": 1753,
+    "totalInstitutions": 548,
+    "totalTags": 1797,
     "years": [
       2020,
       2021,
@@ -33,7 +33,7 @@
       "早期投资",
       "母基金/FOF"
     ],
-    "generatedAt": "2026-04-29T23:37:24.588476"
+    "generatedAt": "2026-04-29T23:52:46.767858"
   },
   "institutions": [
     {
@@ -238,80 +238,6 @@
           "rank": null,
           "source_org": "清科",
           "category": "VC"
-        }
-      ]
-    },
-    {
-      "id": 11,
-      "name": "GGV纪源资本",
-      "type": "创业投资机构",
-      "fund_scale": "数百亿人民币",
-      "focus_areas": "企业服务、科技、跨境",
-      "cases": "Airbnb等、字节跳动、阿里巴巴",
-      "notes": "全球化视野的投资机构",
-      "first_year": 2020,
-      "last_year": 2025,
-      "years_active": "2020,2021,2022,2023,2025",
-      "source_orgs": "投中、清科",
-      "tag_count": 8,
-      "created_at": "2026-04-25 02:56:35",
-      "updated_at": "2026-04-25 02:56:35",
-      "tags": [
-        {
-          "year": 2025,
-          "list_name": "36氪2025年度中国股权投资行业创业投资机构100",
-          "rank": null,
-          "source_org": "36氪",
-          "category": "VC"
-        },
-        {
-          "year": 2025,
-          "list_name": "投中网2025年度最佳创业投资机构TOP",
-          "rank": null,
-          "source_org": "投中",
-          "category": "VC"
-        },
-        {
-          "year": 2024,
-          "list_name": "36氪2024年度中国股权投资行业创业投资机构100",
-          "rank": null,
-          "source_org": "36氪",
-          "category": "VC"
-        },
-        {
-          "year": 2024,
-          "list_name": "36氪2024年度中国股权投资行业早期投资机构50",
-          "rank": null,
-          "source_org": "36氪",
-          "category": "早期投资"
-        },
-        {
-          "year": 2023,
-          "list_name": "投中2023年度最佳创业投资机构TOP100第12",
-          "rank": 12,
-          "source_org": "投中",
-          "category": "VC"
-        },
-        {
-          "year": 2022,
-          "list_name": "投中2022年度最佳创业投资机构TOP100第16",
-          "rank": 16,
-          "source_org": "投中",
-          "category": "VC"
-        },
-        {
-          "year": 2021,
-          "list_name": "投中2021年度最佳创业投资机构TOP100第7",
-          "rank": 7,
-          "source_org": "投中",
-          "category": "VC"
-        },
-        {
-          "year": 2020,
-          "list_name": "清科2020创投百亿俱乐部",
-          "rank": null,
-          "source_org": "清科",
-          "category": null
         }
       ]
     },
@@ -570,70 +496,6 @@
           "rank": 74,
           "source_org": "投中",
           "category": "VC"
-        }
-      ]
-    },
-    {
-      "id": 1,
-      "name": "Monolith 砺思资本",
-      "type": "创业投资机构",
-      "fund_scale": null,
-      "focus_areas": "科技创新",
-      "cases": "2025年进行新一轮募资",
-      "notes": "2025年进行新一轮募资",
-      "first_year": null,
-      "last_year": null,
-      "years_active": null,
-      "source_orgs": null,
-      "tag_count": 1,
-      "created_at": "2026-04-25 02:56:35",
-      "updated_at": "2026-04-25 02:56:35",
-      "tags": [
-        {
-          "year": null,
-          "list_name": "美元回流代表机构",
-          "rank": null,
-          "source_org": "投资界",
-          "category": null
-        }
-      ]
-    },
-    {
-      "id": 44,
-      "name": "Monolith砺思资本",
-      "type": "创业投资机构",
-      "fund_scale": "100亿",
-      "focus_areas": "科技创新",
-      "cases": "与爱为舞、星迈创新、月之暗面",
-      "notes": null,
-      "first_year": 2024,
-      "last_year": 2024,
-      "years_active": "2024",
-      "source_orgs": "投中,母基金周刊",
-      "tag_count": 3,
-      "created_at": "2026-04-25 02:56:35",
-      "updated_at": "2026-04-25 02:56:35",
-      "tags": [
-        {
-          "year": 2024,
-          "list_name": "2024新质生产力投资机构软实力GP TOP100",
-          "rank": null,
-          "source_org": "母基金周刊",
-          "category": "母基金/FOF"
-        },
-        {
-          "year": 2024,
-          "list_name": "投中2024年度最佳创业投资机构 TOP81",
-          "rank": 81,
-          "source_org": "投中",
-          "category": "VC"
-        },
-        {
-          "year": 2023,
-          "list_name": "2023投资机构软实力排行榜-创新驱动TOP20",
-          "rank": 9,
-          "source_org": "母基金周刊",
-          "category": "母基金/FOF"
         }
       ]
     },
@@ -911,56 +773,6 @@
           "rank": null,
           "source_org": "融中财经",
           "category": "VC"
-        }
-      ]
-    },
-    {
-      "id": 101,
-      "name": "上海国投孚腾资本",
-      "type": "国资私募股权投资机构",
-      "fund_scale": "300亿",
-      "focus_areas": "硬科技",
-      "cases": "新微集团、沐曦、盛合晶微",
-      "notes": null,
-      "first_year": 2024,
-      "last_year": 2024,
-      "years_active": "2024",
-      "source_orgs": "投中",
-      "tag_count": 1,
-      "created_at": "2026-04-25 02:56:35",
-      "updated_at": "2026-04-25 02:56:35",
-      "tags": [
-        {
-          "year": 2024,
-          "list_name": "投中2024年度最佳私募股权投资机构 TOP89",
-          "rank": 89,
-          "source_org": "投中",
-          "category": "PE"
-        }
-      ]
-    },
-    {
-      "id": 273,
-      "name": "上海国盛资本",
-      "type": "国资投资机构",
-      "fund_scale": "超200亿",
-      "focus_areas": "科技创新",
-      "cases": "未披露",
-      "notes": null,
-      "first_year": 2025,
-      "last_year": 2025,
-      "years_active": "2025",
-      "source_orgs": null,
-      "tag_count": 1,
-      "created_at": "2026-04-25 02:56:35",
-      "updated_at": "2026-04-25 02:56:35",
-      "tags": [
-        {
-          "year": 2025,
-          "list_name": "2025年中国国资投资机构50强",
-          "rank": null,
-          "source_org": "融中财经",
-          "category": "国资投资"
         }
       ]
     },
@@ -2980,35 +2792,10 @@
       "cases": "京东物流、京东数科、达达集团、爱回收",
       "notes": null,
       "first_year": 2020,
-      "last_year": 2020,
+      "last_year": 2025,
       "years_active": "2020",
       "source_orgs": "清科",
-      "tag_count": 1,
-      "created_at": "2026-04-25 02:56:35",
-      "updated_at": "2026-04-25 02:56:35",
-      "tags": [
-        {
-          "year": 2020,
-          "list_name": "清科2020中国战略投资者TOP10第5",
-          "rank": 5,
-          "source_org": "清科",
-          "category": null
-        }
-      ]
-    },
-    {
-      "id": 308,
-      "name": "京东集团",
-      "type": "产业投资机构/CVC",
-      "fund_scale": "超200亿",
-      "focus_areas": "电商、科技",
-      "cases": "未披露",
-      "notes": null,
-      "first_year": 2025,
-      "last_year": 2025,
-      "years_active": "2025",
-      "source_orgs": null,
-      "tag_count": 1,
+      "tag_count": 2,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -3018,6 +2805,13 @@
           "rank": null,
           "source_org": "融中财经",
           "category": "VC"
+        },
+        {
+          "year": 2020,
+          "list_name": "清科2020中国战略投资者TOP10第5",
+          "rank": 5,
+          "source_org": "清科",
+          "category": null
         }
       ]
     },
@@ -3916,10 +3710,10 @@
       "cases": "金风科技、银联商务、华大基因、蔚来汽车、爱奇艺",
       "notes": null,
       "first_year": 2020,
-      "last_year": 2020,
+      "last_year": 2023,
       "years_active": "2020",
       "source_orgs": "清科,母基金周刊",
-      "tag_count": 3,
+      "tag_count": 4,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -3927,6 +3721,13 @@
           "year": 2023,
           "list_name": "2023投资机构软实力GP TOP100",
           "rank": 7,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
+        },
+        {
+          "year": 2023,
+          "list_name": "2023投资机构软实力排行榜-新经济TOP20",
+          "rank": 5,
           "source_org": "母基金周刊",
           "category": "母基金/FOF"
         },
@@ -3943,31 +3744,6 @@
           "rank": 23,
           "source_org": "清科",
           "category": "PE"
-        }
-      ]
-    },
-    {
-      "id": 532,
-      "name": "光大控股新经济",
-      "type": "未分类",
-      "fund_scale": "",
-      "focus_areas": "",
-      "cases": "",
-      "notes": null,
-      "first_year": 2023,
-      "last_year": 2023,
-      "years_active": "2023",
-      "source_orgs": "母基金周刊",
-      "tag_count": 1,
-      "created_at": "2026-04-29 15:05:48",
-      "updated_at": "2026-04-29 15:05:48",
-      "tags": [
-        {
-          "year": 2023,
-          "list_name": "2023投资机构软实力排行榜-新经济TOP20",
-          "rank": 5,
-          "source_org": "母基金周刊",
-          "category": "母基金/FOF"
         }
       ]
     },
@@ -4870,7 +4646,7 @@
       "last_year": 2025,
       "years_active": "2020,2025",
       "source_orgs": "清科",
-      "tag_count": 5,
+      "tag_count": 7,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -4901,6 +4677,20 @@
           "rank": null,
           "source_org": "36氪",
           "category": "早期投资"
+        },
+        {
+          "year": 2023,
+          "list_name": "2023投资机构软实力GP TOP100",
+          "rank": null,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
+        },
+        {
+          "year": 2023,
+          "list_name": "2023投资机构软实力排行榜-价值创造TOP20",
+          "rank": 17,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
         },
         {
           "year": 2020,
@@ -5494,38 +5284,6 @@
       ]
     },
     {
-      "id": 432,
-      "name": "华业天成",
-      "type": "未分类",
-      "fund_scale": "",
-      "focus_areas": "",
-      "cases": "",
-      "notes": null,
-      "first_year": 2023,
-      "last_year": 2023,
-      "years_active": "2023",
-      "source_orgs": "母基金周刊",
-      "tag_count": 2,
-      "created_at": "2026-04-29 15:05:48",
-      "updated_at": "2026-04-29 15:05:48",
-      "tags": [
-        {
-          "year": 2023,
-          "list_name": "2023投资机构软实力GP TOP100",
-          "rank": null,
-          "source_org": "母基金周刊",
-          "category": "母基金/FOF"
-        },
-        {
-          "year": 2023,
-          "list_name": "2023投资机构软实力排行榜-硬科技TOP20",
-          "rank": 9,
-          "source_org": "母基金周刊",
-          "category": "母基金/FOF"
-        }
-      ]
-    },
-    {
       "id": 191,
       "name": "华业天成资本",
       "type": "创业投资机构",
@@ -5533,11 +5291,11 @@
       "focus_areas": "半导体、硬科技",
       "cases": "汉朔科技、珂玛科技、英诺赛科",
       "notes": null,
-      "first_year": 2025,
+      "first_year": 2023,
       "last_year": 2025,
       "years_active": "2025",
       "source_orgs": null,
-      "tag_count": 4,
+      "tag_count": 6,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -5568,6 +5326,20 @@
           "rank": 68,
           "source_org": "融中财经",
           "category": "VC"
+        },
+        {
+          "year": 2023,
+          "list_name": "2023投资机构软实力GP TOP100",
+          "rank": null,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
+        },
+        {
+          "year": 2023,
+          "list_name": "2023投资机构软实力排行榜-硬科技TOP20",
+          "rank": 9,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
         }
       ]
     },
@@ -5579,14 +5351,21 @@
       "focus_areas": "半导体产业链、硬科技",
       "cases": "思瑞浦、杰华特、裕太微等半导体企业",
       "notes": "华为技术有限公司投资部门，聚焦半导体国产替代",
-      "first_year": null,
-      "last_year": null,
+      "first_year": 2022,
+      "last_year": 2022,
       "years_active": null,
       "source_orgs": null,
-      "tag_count": 1,
+      "tag_count": 2,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
+        {
+          "year": 2022,
+          "list_name": "投中2022年度最佳创业投资机构TOP100第12",
+          "rank": 12,
+          "source_org": "投中",
+          "category": "VC"
+        },
         {
           "year": null,
           "list_name": "半导体产业链投资代表",
@@ -7565,31 +7344,6 @@
       ]
     },
     {
-      "id": 414,
-      "name": "哈勃投资",
-      "type": "产业投资机构/CVC",
-      "fund_scale": null,
-      "focus_areas": null,
-      "cases": null,
-      "notes": null,
-      "first_year": 2022,
-      "last_year": 2022,
-      "years_active": "2022",
-      "source_orgs": "投中",
-      "tag_count": 1,
-      "created_at": "2026-04-25 02:56:35",
-      "updated_at": "2026-04-25 02:56:35",
-      "tags": [
-        {
-          "year": 2022,
-          "list_name": "投中2022年度最佳创业投资机构TOP100第12",
-          "rank": 12,
-          "source_org": "投中",
-          "category": "VC"
-        }
-      ]
-    },
-    {
       "id": 40,
       "name": "唐兴资本",
       "type": "创业投资机构",
@@ -7991,63 +7745,6 @@
       ]
     },
     {
-      "id": 429,
-      "name": "国家电投",
-      "type": "未分类",
-      "fund_scale": "",
-      "focus_areas": "",
-      "cases": "",
-      "notes": null,
-      "first_year": 2023,
-      "last_year": 2023,
-      "years_active": "2023",
-      "source_orgs": "母基金周刊",
-      "tag_count": 2,
-      "created_at": "2026-04-29 15:05:48",
-      "updated_at": "2026-04-29 15:05:48",
-      "tags": [
-        {
-          "year": 2023,
-          "list_name": "2023投资机构软实力GP TOP100",
-          "rank": null,
-          "source_org": "母基金周刊",
-          "category": "母基金/FOF"
-        },
-        {
-          "year": 2023,
-          "list_name": "2023投资机构软实力排行榜-新能源TOP20",
-          "rank": 7,
-          "source_org": "母基金周刊",
-          "category": "母基金/FOF"
-        }
-      ]
-    },
-    {
-      "id": 562,
-      "name": "国家电投产业基金",
-      "type": "未分类",
-      "fund_scale": "",
-      "focus_areas": "",
-      "cases": "",
-      "notes": null,
-      "first_year": 2025,
-      "last_year": 2025,
-      "years_active": "2025",
-      "source_orgs": "母基金周刊",
-      "tag_count": 1,
-      "created_at": "2026-04-29 15:14:14",
-      "updated_at": "2026-04-29 15:14:14",
-      "tags": [
-        {
-          "year": 2025,
-          "list_name": "2025新质生产力投资机构软实力GP TOP100",
-          "rank": 13,
-          "source_org": "母基金周刊",
-          "category": "母基金/FOF"
-        }
-      ]
-    },
-    {
       "id": 321,
       "name": "国家电投创新投资",
       "type": "国资私募股权投资机构",
@@ -8055,11 +7752,11 @@
       "focus_areas": "新能源",
       "cases": "未披露",
       "notes": null,
-      "first_year": 2025,
+      "first_year": 2023,
       "last_year": 2025,
       "years_active": "2025",
       "source_orgs": "母基金周刊",
-      "tag_count": 4,
+      "tag_count": 7,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -8069,6 +7766,13 @@
           "rank": null,
           "source_org": "融中财经",
           "category": "新能源"
+        },
+        {
+          "year": 2025,
+          "list_name": "2025新质生产力投资机构软实力GP TOP100",
+          "rank": 13,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
         },
         {
           "year": 2025,
@@ -8090,6 +7794,20 @@
           "rank": 43,
           "source_org": "融中财经",
           "category": "PE"
+        },
+        {
+          "year": 2023,
+          "list_name": "2023投资机构软实力GP TOP100",
+          "rank": null,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
+        },
+        {
+          "year": 2023,
+          "list_name": "2023投资机构软实力排行榜-新能源TOP20",
+          "rank": 7,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
         }
       ]
     },
@@ -8729,13 +8447,20 @@
       "cases": "万业股份、中经社、天数智芯",
       "notes": null,
       "first_year": 2024,
-      "last_year": 2024,
+      "last_year": 2025,
       "years_active": "2024",
       "source_orgs": "投中",
-      "tag_count": 3,
+      "tag_count": 4,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
+        {
+          "year": 2025,
+          "list_name": "2025年中国国资投资机构50强",
+          "rank": null,
+          "source_org": "融中财经",
+          "category": "国资投资"
+        },
         {
           "year": 2025,
           "list_name": "融中年度中国私募股权投资机构TOP100",
@@ -9851,12 +9576,12 @@
       "fund_scale": "约500亿",
       "focus_areas": "企业服务、硬科技",
       "cases": "朝夕光年、Pico、沐瞳科技",
-      "notes": null,
+      "notes": "字节跳动战略投资",
       "first_year": 2020,
-      "last_year": 2020,
+      "last_year": 2025,
       "years_active": "2020",
       "source_orgs": "清科",
-      "tag_count": 4,
+      "tag_count": 5,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -9866,6 +9591,13 @@
           "rank": null,
           "source_org": "36氪",
           "category": "VC"
+        },
+        {
+          "year": 2025,
+          "list_name": "投中网2025年度最佳产业投资机构",
+          "rank": null,
+          "source_org": "投中",
+          "category": "产业投资/CVC"
         },
         {
           "year": 2024,
@@ -9891,31 +9623,6 @@
       ]
     },
     {
-      "id": 8,
-      "name": "字节跳动投资",
-      "type": "产业投资机构/CVC",
-      "fund_scale": "数百亿人民币",
-      "focus_areas": "AI、互联网、内容平台",
-      "cases": "沐瞳科技、深势科技等",
-      "notes": "字节跳动战略投资",
-      "first_year": 2025,
-      "last_year": 2025,
-      "years_active": "2025",
-      "source_orgs": "投中",
-      "tag_count": 1,
-      "created_at": "2026-04-25 02:56:35",
-      "updated_at": "2026-04-25 02:56:35",
-      "tags": [
-        {
-          "year": 2025,
-          "list_name": "投中网2025年度最佳产业投资机构",
-          "rank": null,
-          "source_org": "投中",
-          "category": "产业投资/CVC"
-        }
-      ]
-    },
-    {
       "id": 355,
       "name": "孚腾资本",
       "type": "国资投资机构",
@@ -9923,11 +9630,11 @@
       "focus_areas": "医疗健康、新能源、科技创新",
       "cases": "上海国资项目",
       "notes": null,
-      "first_year": 2025,
+      "first_year": 2024,
       "last_year": 2025,
       "years_active": "2025",
       "source_orgs": "投中,母基金周刊",
-      "tag_count": 3,
+      "tag_count": 4,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -9951,6 +9658,13 @@
           "rank": 59,
           "source_org": "融中财经",
           "category": "PE"
+        },
+        {
+          "year": 2024,
+          "list_name": "投中2024年度最佳私募股权投资机构 TOP89",
+          "rank": 89,
+          "source_org": "投中",
+          "category": "PE"
         }
       ]
     },
@@ -9961,12 +9675,12 @@
       "fund_scale": "超200亿",
       "focus_areas": "储能、新能源、电池",
       "cases": "先导智能、锂供应等产业链企业",
-      "notes": null,
+      "notes": "宁德时代战略投资部门",
       "first_year": 2025,
       "last_year": 2025,
       "years_active": "2025",
       "source_orgs": null,
-      "tag_count": 1,
+      "tag_count": 2,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -9976,25 +9690,7 @@
           "rank": null,
           "source_org": "融中财经",
           "category": "VC"
-        }
-      ]
-    },
-    {
-      "id": 13,
-      "name": "宁德时代投资",
-      "type": "产业投资机构/CVC",
-      "fund_scale": "数百亿人民币",
-      "focus_areas": "储能、新能源、电池产业链",
-      "cases": "先导智能、锂供应等产业链企业",
-      "notes": "宁德时代战略投资部门",
-      "first_year": 2025,
-      "last_year": 2025,
-      "years_active": "2025",
-      "source_orgs": "投中",
-      "tag_count": 1,
-      "created_at": "2026-04-25 02:56:35",
-      "updated_at": "2026-04-25 02:56:35",
-      "tags": [
+        },
         {
           "year": 2025,
           "list_name": "投中网2025年度最佳产业投资机构",
@@ -10175,12 +9871,12 @@
       "fund_scale": "约500亿",
       "focus_areas": "新能源汽车、硬科技",
       "cases": "九号公司等生态链企业、石头科技",
-      "notes": null,
+      "notes": "小米集团战略投资部门",
       "first_year": 2020,
       "last_year": 2025,
       "years_active": "2020,2025",
       "source_orgs": "清科",
-      "tag_count": 3,
+      "tag_count": 7,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -10192,37 +9888,12 @@
           "category": "VC"
         },
         {
-          "year": 2020,
-          "list_name": "清科2020中国战略投资者TOP10第4",
-          "rank": 4,
-          "source_org": "清科",
-          "category": null
-        },
-        {
-          "year": 2020,
-          "list_name": "清科2020科创企业领域投资机构",
+          "year": 2025,
+          "list_name": "投中网2025年度最佳产业投资机构",
           "rank": null,
-          "source_org": "清科",
-          "category": null
-        }
-      ]
-    },
-    {
-      "id": 426,
-      "name": "小米产投",
-      "type": "未分类",
-      "fund_scale": "",
-      "focus_areas": "",
-      "cases": "",
-      "notes": null,
-      "first_year": 2023,
-      "last_year": 2023,
-      "years_active": "2023",
-      "source_orgs": "母基金周刊",
-      "tag_count": 3,
-      "created_at": "2026-04-29 15:05:48",
-      "updated_at": "2026-04-29 15:05:48",
-      "tags": [
+          "source_org": "投中",
+          "category": "产业投资/CVC"
+        },
         {
           "year": 2024,
           "list_name": "2024新质生产力投资机构软实力GP TOP100",
@@ -10243,31 +9914,20 @@
           "rank": 14,
           "source_org": "母基金周刊",
           "category": "母基金/FOF"
-        }
-      ]
-    },
-    {
-      "id": 12,
-      "name": "小米投资",
-      "type": "产业投资机构/CVC",
-      "fund_scale": "数百亿人民币",
-      "focus_areas": "AIoT、新能源汽车、智能硬件、芯片",
-      "cases": "九号公司等生态链企业、石头科技",
-      "notes": "小米集团战略投资部门",
-      "first_year": 2025,
-      "last_year": 2025,
-      "years_active": "2025",
-      "source_orgs": "投中",
-      "tag_count": 1,
-      "created_at": "2026-04-25 02:56:35",
-      "updated_at": "2026-04-25 02:56:35",
-      "tags": [
+        },
         {
-          "year": 2025,
-          "list_name": "投中网2025年度最佳产业投资机构",
+          "year": 2020,
+          "list_name": "清科2020中国战略投资者TOP10第4",
+          "rank": 4,
+          "source_org": "清科",
+          "category": null
+        },
+        {
+          "year": 2020,
+          "list_name": "清科2020科创企业领域投资机构",
           "rank": null,
-          "source_org": "投中",
-          "category": "产业投资/CVC"
+          "source_org": "清科",
+          "category": null
         }
       ]
     },
@@ -11003,11 +10663,11 @@
       "focus_areas": "医疗健康",
       "cases": "云顶新耀、安瑞医疗",
       "notes": null,
-      "first_year": 2025,
+      "first_year": 2024,
       "last_year": 2025,
       "years_active": "2025",
       "source_orgs": null,
-      "tag_count": 2,
+      "tag_count": 3,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -11020,35 +10680,17 @@
         },
         {
           "year": 2024,
-          "list_name": "融中年度中国私募股权投资机构TOP100",
-          "rank": 42,
-          "source_org": "融中财经",
-          "category": "PE"
-        }
-      ]
-    },
-    {
-      "id": 557,
-      "name": "康桥资本 CBC Group",
-      "type": "未分类",
-      "fund_scale": "",
-      "focus_areas": "",
-      "cases": "",
-      "notes": null,
-      "first_year": 2024,
-      "last_year": 2024,
-      "years_active": "2024",
-      "source_orgs": "母基金周刊",
-      "tag_count": 1,
-      "created_at": "2026-04-29 15:10:06",
-      "updated_at": "2026-04-29 15:10:06",
-      "tags": [
-        {
-          "year": 2024,
           "list_name": "2024新质生产力投资机构软实力GP TOP100",
           "rank": null,
           "source_org": "母基金周刊",
           "category": "母基金/FOF"
+        },
+        {
+          "year": 2024,
+          "list_name": "融中年度中国私募股权投资机构TOP100",
+          "rank": 42,
+          "source_org": "融中财经",
+          "category": "PE"
         }
       ]
     },
@@ -11674,38 +11316,6 @@
       ]
     },
     {
-      "id": 445,
-      "name": "心资本",
-      "type": "未分类",
-      "fund_scale": "",
-      "focus_areas": "",
-      "cases": "",
-      "notes": null,
-      "first_year": 2023,
-      "last_year": 2023,
-      "years_active": "2023",
-      "source_orgs": "母基金周刊",
-      "tag_count": 2,
-      "created_at": "2026-04-29 15:05:48",
-      "updated_at": "2026-04-29 15:05:48",
-      "tags": [
-        {
-          "year": 2023,
-          "list_name": "2023投资机构软实力GP TOP100",
-          "rank": null,
-          "source_org": "母基金周刊",
-          "category": "母基金/FOF"
-        },
-        {
-          "year": 2023,
-          "list_name": "2023投资机构软实力排行榜-价值创造TOP20",
-          "rank": 17,
-          "source_org": "母基金周刊",
-          "category": "母基金/FOF"
-        }
-      ]
-    },
-    {
       "id": 463,
       "name": "恒信华业",
       "type": "未分类",
@@ -12298,38 +11908,6 @@
       ]
     },
     {
-      "id": 350,
-      "name": "招银国际",
-      "type": "国资投资机构",
-      "fund_scale": "约800亿",
-      "focus_areas": "医疗健康、消费、科技创新",
-      "cases": "宁德时代、比亚迪、蜂巢能源",
-      "notes": null,
-      "first_year": 2025,
-      "last_year": 2025,
-      "years_active": "2025",
-      "source_orgs": "投中",
-      "tag_count": 2,
-      "created_at": "2026-04-25 02:56:35",
-      "updated_at": "2026-04-25 02:56:35",
-      "tags": [
-        {
-          "year": 2025,
-          "list_name": "投中2025年度最佳国资投资机构TOP100",
-          "rank": 100,
-          "source_org": "投中",
-          "category": "国资投资"
-        },
-        {
-          "year": 2024,
-          "list_name": "36氪2024年度中国股权投资行业私募股权投资机构100",
-          "rank": null,
-          "source_org": "36氪",
-          "category": "PE"
-        }
-      ]
-    },
-    {
       "id": 221,
       "name": "招银国际资本",
       "type": "国资私募股权投资机构",
@@ -12341,7 +11919,7 @@
       "last_year": 2025,
       "years_active": "2020,2025",
       "source_orgs": "清科",
-      "tag_count": 5,
+      "tag_count": 7,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -12354,9 +11932,23 @@
         },
         {
           "year": 2025,
+          "list_name": "投中2025年度最佳国资投资机构TOP100",
+          "rank": 100,
+          "source_org": "投中",
+          "category": "国资投资"
+        },
+        {
+          "year": 2025,
           "list_name": "融中年度中国私募股权投资机构TOP100",
           "rank": 7,
           "source_org": "融中财经",
+          "category": "PE"
+        },
+        {
+          "year": 2024,
+          "list_name": "36氪2024年度中国股权投资行业私募股权投资机构100",
+          "rank": null,
+          "source_org": "36氪",
           "category": "PE"
         },
         {
@@ -12521,31 +12113,6 @@
           "rank": 57,
           "source_org": "投中",
           "category": "VC"
-        }
-      ]
-    },
-    {
-      "id": 452,
-      "name": "新尚资本",
-      "type": "未分类",
-      "fund_scale": "",
-      "focus_areas": "",
-      "cases": "",
-      "notes": null,
-      "first_year": 2023,
-      "last_year": 2023,
-      "years_active": "2023",
-      "source_orgs": "母基金周刊",
-      "tag_count": 1,
-      "created_at": "2026-04-29 15:05:48",
-      "updated_at": "2026-04-29 15:05:48",
-      "tags": [
-        {
-          "year": 2023,
-          "list_name": "2023投资机构软实力排行榜-社会责任TOP20",
-          "rank": 14,
-          "source_org": "母基金周刊",
-          "category": "母基金/FOF"
         }
       ]
     },
@@ -12787,11 +12354,11 @@
       "focus_areas": "",
       "cases": "",
       "notes": null,
-      "first_year": 2024,
-      "last_year": 2024,
+      "first_year": 2023,
+      "last_year": 2025,
       "years_active": "2024",
       "source_orgs": "母基金周刊",
-      "tag_count": 2,
+      "tag_count": 3,
       "created_at": "2026-04-29 15:10:06",
       "updated_at": "2026-04-29 15:10:06",
       "tags": [
@@ -12806,6 +12373,13 @@
           "year": 2024,
           "list_name": "2024新质生产力投资机构软实力GP TOP100",
           "rank": null,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
+        },
+        {
+          "year": 2023,
+          "list_name": "2023投资机构软实力排行榜-社会责任TOP20",
+          "rank": 14,
           "source_org": "母基金周刊",
           "category": "母基金/FOF"
         }
@@ -14121,38 +13695,6 @@
       ]
     },
     {
-      "id": 425,
-      "name": "武岳峰",
-      "type": "未分类",
-      "fund_scale": "",
-      "focus_areas": "",
-      "cases": "",
-      "notes": null,
-      "first_year": 2023,
-      "last_year": 2023,
-      "years_active": "2023",
-      "source_orgs": "母基金周刊",
-      "tag_count": 2,
-      "created_at": "2026-04-29 15:05:48",
-      "updated_at": "2026-04-29 15:05:48",
-      "tags": [
-        {
-          "year": 2023,
-          "list_name": "2023投资机构软实力GP TOP100",
-          "rank": 24,
-          "source_org": "母基金周刊",
-          "category": "母基金/FOF"
-        },
-        {
-          "year": 2023,
-          "list_name": "2023投资机构软实力排行榜-硬科技TOP20",
-          "rank": 15,
-          "source_org": "母基金周刊",
-          "category": "母基金/FOF"
-        }
-      ]
-    },
-    {
       "id": 208,
       "name": "武岳峰科创",
       "type": "创业投资机构",
@@ -14160,11 +13702,11 @@
       "focus_areas": "半导体、科技创新",
       "cases": "未披露",
       "notes": null,
-      "first_year": 2022,
+      "first_year": 2020,
       "last_year": 2025,
       "years_active": "2022,2025",
       "source_orgs": "投中",
-      "tag_count": 5,
+      "tag_count": 8,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -14197,30 +13739,26 @@
           "category": "VC"
         },
         {
+          "year": 2023,
+          "list_name": "2023投资机构软实力GP TOP100",
+          "rank": 24,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
+        },
+        {
+          "year": 2023,
+          "list_name": "2023投资机构软实力排行榜-硬科技TOP20",
+          "rank": 15,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
+        },
+        {
           "year": 2022,
           "list_name": "投中2022年度最佳创业投资机构TOP100第11",
           "rank": 11,
           "source_org": "投中",
           "category": "VC"
-        }
-      ]
-    },
-    {
-      "id": 377,
-      "name": "武岳峰资本",
-      "type": "创业投资机构",
-      "fund_scale": "约200亿",
-      "focus_areas": "半导体、硬科技",
-      "cases": "展讯通信、博通集成、芯朋微、安集科技、晶方科技",
-      "notes": null,
-      "first_year": 2020,
-      "last_year": 2020,
-      "years_active": "2020",
-      "source_orgs": "清科",
-      "tag_count": 1,
-      "created_at": "2026-04-25 02:56:35",
-      "updated_at": "2026-04-25 02:56:35",
-      "tags": [
+        },
         {
           "year": 2020,
           "list_name": "清科2020中国创业投资机构100强",
@@ -15491,10 +15029,17 @@
       "last_year": 2025,
       "years_active": "2020,2021,2022,2023,2024,2025",
       "source_orgs": "投中、清科,母基金周刊",
-      "tag_count": 17,
+      "tag_count": 20,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
+        {
+          "year": 2025,
+          "list_name": "2025年最佳募资创业投资机构、2025年投资最活跃创业投资机构、2025年中国创业投资机构50强第2名",
+          "rank": 2,
+          "source_org": "融中财经",
+          "category": "VC"
+        },
         {
           "year": 2025,
           "list_name": "2025新质生产力投资机构软实力GP TOP100",
@@ -15524,6 +15069,13 @@
           "category": "VC"
         },
         {
+          "year": 2025,
+          "list_name": "融中年度中国创业投资机构TOP100",
+          "rank": 1,
+          "source_org": "融中财经",
+          "category": "VC"
+        },
+        {
           "year": 2024,
           "list_name": "2024新质生产力投资机构软实力GP TOP100",
           "rank": 2,
@@ -15549,6 +15101,13 @@
           "list_name": "清科中国创业投资机构100强",
           "rank": 2,
           "source_org": "清科",
+          "category": "VC"
+        },
+        {
+          "year": 2024,
+          "list_name": "融中年度中国创业投资机构TOP100",
+          "rank": 1,
+          "source_org": "融中财经",
           "category": "VC"
         },
         {
@@ -15612,45 +15171,6 @@
           "list_name": "清科2020最佳退出创业投资机构",
           "rank": null,
           "source_org": "清科",
-          "category": "VC"
-        }
-      ]
-    },
-    {
-      "id": 169,
-      "name": "深创投集团",
-      "type": "国资创业投资机构",
-      "fund_scale": "超4900亿",
-      "focus_areas": "先进制造、生物医药、科技创新",
-      "cases": "中科飞测、华大九天、宁德时代、康方生物",
-      "notes": null,
-      "first_year": 2025,
-      "last_year": 2025,
-      "years_active": "2025",
-      "source_orgs": null,
-      "tag_count": 3,
-      "created_at": "2026-04-25 02:56:35",
-      "updated_at": "2026-04-25 02:56:35",
-      "tags": [
-        {
-          "year": 2025,
-          "list_name": "2025年最佳募资创业投资机构、2025年投资最活跃创业投资机构、2025年中国创业投资机构50强第2名",
-          "rank": 2,
-          "source_org": "融中财经",
-          "category": "VC"
-        },
-        {
-          "year": 2025,
-          "list_name": "融中年度中国创业投资机构TOP100",
-          "rank": 1,
-          "source_org": "融中财经",
-          "category": "VC"
-        },
-        {
-          "year": 2024,
-          "list_name": "融中年度中国创业投资机构TOP100",
-          "rank": 1,
-          "source_org": "融中财经",
           "category": "VC"
         }
       ]
@@ -16590,18 +16110,18 @@
       ]
     },
     {
-      "id": 309,
-      "name": "百度",
+      "id": 399,
+      "name": "百度投资部",
       "type": "产业投资机构/CVC",
-      "fund_scale": "超200亿",
-      "focus_areas": "人工智能、自动驾驶",
-      "cases": "未披露",
+      "fund_scale": "约200亿",
+      "focus_areas": "人工智能、硬科技",
+      "cases": "爱奇艺、携程、蔚来汽车、知乎、快手",
       "notes": null,
-      "first_year": 2025,
+      "first_year": 2020,
       "last_year": 2025,
-      "years_active": "2025",
-      "source_orgs": null,
-      "tag_count": 1,
+      "years_active": "2020",
+      "source_orgs": "清科",
+      "tag_count": 3,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -16611,25 +16131,7 @@
           "rank": null,
           "source_org": "融中财经",
           "category": "VC"
-        }
-      ]
-    },
-    {
-      "id": 399,
-      "name": "百度投资部",
-      "type": "产业投资机构/CVC",
-      "fund_scale": "约200亿",
-      "focus_areas": "人工智能、硬科技",
-      "cases": "爱奇艺、携程、蔚来汽车、知乎、快手",
-      "notes": null,
-      "first_year": 2020,
-      "last_year": 2020,
-      "years_active": "2020",
-      "source_orgs": "清科",
-      "tag_count": 2,
-      "created_at": "2026-04-25 02:56:35",
-      "updated_at": "2026-04-25 02:56:35",
-      "tags": [
+        },
         {
           "year": 2020,
           "list_name": "清科2020中国战略投资者TOP10第6",
@@ -17030,12 +16532,12 @@
       "fund_scale": "超50亿",
       "focus_areas": "科技创新",
       "cases": "未披露",
-      "notes": null,
-      "first_year": 2025,
+      "notes": "2025年进行新一轮募资",
+      "first_year": 2023,
       "last_year": 2025,
       "years_active": "2025",
       "source_orgs": null,
-      "tag_count": 3,
+      "tag_count": 7,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -17055,10 +16557,38 @@
         },
         {
           "year": 2024,
+          "list_name": "2024新质生产力投资机构软实力GP TOP100",
+          "rank": null,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
+        },
+        {
+          "year": 2024,
+          "list_name": "投中2024年度最佳创业投资机构 TOP81",
+          "rank": 81,
+          "source_org": "投中",
+          "category": "VC"
+        },
+        {
+          "year": 2024,
           "list_name": "清科中国创业投资机构100强",
           "rank": 77,
           "source_org": "清科",
           "category": "VC"
+        },
+        {
+          "year": 2023,
+          "list_name": "2023投资机构软实力排行榜-创新驱动TOP20",
+          "rank": 9,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
+        },
+        {
+          "year": null,
+          "list_name": "美元回流代表机构",
+          "rank": null,
+          "source_org": "投资界",
+          "category": null
         }
       ]
     },
@@ -17801,12 +17331,12 @@
       "fund_scale": "超500亿",
       "focus_areas": "企业服务、科技、跨境",
       "cases": "Airbnb、BOSS直聘、字节跳动、阿里巴巴",
-      "notes": null,
-      "first_year": 2025,
+      "notes": "全球化视野的投资机构",
+      "first_year": 2020,
       "last_year": 2025,
       "years_active": "2025",
       "source_orgs": null,
-      "tag_count": 4,
+      "tag_count": 12,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -17819,10 +17349,38 @@
         },
         {
           "year": 2025,
+          "list_name": "36氪2025年度中国股权投资行业创业投资机构100",
+          "rank": null,
+          "source_org": "36氪",
+          "category": "VC"
+        },
+        {
+          "year": 2025,
+          "list_name": "投中网2025年度最佳创业投资机构TOP",
+          "rank": null,
+          "source_org": "投中",
+          "category": "VC"
+        },
+        {
+          "year": 2025,
           "list_name": "融中年度中国创业投资机构TOP100",
           "rank": 34,
           "source_org": "融中财经",
           "category": "VC"
+        },
+        {
+          "year": 2024,
+          "list_name": "36氪2024年度中国股权投资行业创业投资机构100",
+          "rank": null,
+          "source_org": "36氪",
+          "category": "VC"
+        },
+        {
+          "year": 2024,
+          "list_name": "36氪2024年度中国股权投资行业早期投资机构50",
+          "rank": null,
+          "source_org": "36氪",
+          "category": "早期投资"
         },
         {
           "year": 2024,
@@ -17837,6 +17395,34 @@
           "rank": 23,
           "source_org": "融中财经",
           "category": "VC"
+        },
+        {
+          "year": 2023,
+          "list_name": "投中2023年度最佳创业投资机构TOP100第12",
+          "rank": 12,
+          "source_org": "投中",
+          "category": "VC"
+        },
+        {
+          "year": 2022,
+          "list_name": "投中2022年度最佳创业投资机构TOP100第16",
+          "rank": 16,
+          "source_org": "投中",
+          "category": "VC"
+        },
+        {
+          "year": 2021,
+          "list_name": "投中2021年度最佳创业投资机构TOP100第7",
+          "rank": 7,
+          "source_org": "投中",
+          "category": "VC"
+        },
+        {
+          "year": 2020,
+          "list_name": "清科2020创投百亿俱乐部",
+          "rank": null,
+          "source_org": "清科",
+          "category": null
         }
       ]
     },
@@ -19801,13 +19387,20 @@
       "cases": "阿里巴巴、淘宝网、分众传媒、万国数据、华大基因",
       "notes": null,
       "first_year": 2020,
-      "last_year": 2023,
+      "last_year": 2024,
       "years_active": "2020,2022,2023",
       "source_orgs": "投中、清科,母基金周刊",
-      "tag_count": 6,
+      "tag_count": 7,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
+        {
+          "year": 2024,
+          "list_name": "投中2024年度最佳创业投资机构 TOP37",
+          "rank": 37,
+          "source_org": "投中",
+          "category": "VC"
+        },
         {
           "year": 2024,
           "list_name": "清科中国创业投资机构100强",
@@ -19848,31 +19441,6 @@
           "list_name": "清科2020中国创业投资机构100强",
           "rank": null,
           "source_org": "清科",
-          "category": "VC"
-        }
-      ]
-    },
-    {
-      "id": 16,
-      "name": "软银中国资本",
-      "type": "创业投资机构",
-      "fund_scale": "240亿",
-      "focus_areas": "医疗健康、科技",
-      "cases": "万国数据、迪安诊断、阿里巴巴",
-      "notes": null,
-      "first_year": 2024,
-      "last_year": 2024,
-      "years_active": "2024",
-      "source_orgs": "投中",
-      "tag_count": 1,
-      "created_at": "2026-04-25 02:56:35",
-      "updated_at": "2026-04-25 02:56:35",
-      "tags": [
-        {
-          "year": 2024,
-          "list_name": "投中2024年度最佳创业投资机构 TOP37",
-          "rank": 37,
-          "source_org": "投中",
           "category": "VC"
         }
       ]
@@ -21207,31 +20775,6 @@
       ]
     },
     {
-      "id": 519,
-      "name": "阳光融汇",
-      "type": "未分类",
-      "fund_scale": "",
-      "focus_areas": "",
-      "cases": "",
-      "notes": null,
-      "first_year": 2023,
-      "last_year": 2023,
-      "years_active": "2023",
-      "source_orgs": "母基金周刊",
-      "tag_count": 1,
-      "created_at": "2026-04-29 15:05:48",
-      "updated_at": "2026-04-29 15:05:48",
-      "tags": [
-        {
-          "year": 2023,
-          "list_name": "2023投资机构软实力排行榜-医疗健康TOP20",
-          "rank": 19,
-          "source_org": "母基金周刊",
-          "category": "母基金/FOF"
-        }
-      ]
-    },
-    {
       "id": 76,
       "name": "阳光融汇资本",
       "type": "母基金",
@@ -21239,11 +20782,11 @@
       "focus_areas": "医疗健康、新能源",
       "cases": "同源康、摩尔线程、燧原科技",
       "notes": null,
-      "first_year": 2024,
+      "first_year": 2023,
       "last_year": 2025,
       "years_active": "2024,2025",
       "source_orgs": "投中,母基金周刊",
-      "tag_count": 3,
+      "tag_count": 4,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -21267,6 +20810,13 @@
           "rank": 57,
           "source_org": "投中",
           "category": "PE"
+        },
+        {
+          "year": 2023,
+          "list_name": "2023投资机构软实力排行榜-医疗健康TOP20",
+          "rank": 19,
+          "source_org": "母基金周刊",
+          "category": "母基金/FOF"
         }
       ]
     },
@@ -21395,15 +20945,15 @@
       "id": 153,
       "name": "险峰",
       "type": "早期投资机构",
-      "fund_scale": null,
+      "fund_scale": "约50亿",
       "focus_areas": "科技创新",
       "cases": "企查查、找钢网、量子之歌",
       "notes": null,
-      "first_year": 2025,
+      "first_year": 2020,
       "last_year": 2025,
       "years_active": "2025",
       "source_orgs": "母基金周刊",
-      "tag_count": 6,
+      "tag_count": 7,
       "created_at": "2026-04-25 02:56:35",
       "updated_at": "2026-04-25 02:56:35",
       "tags": [
@@ -21448,25 +20998,7 @@
           "rank": 12,
           "source_org": "母基金周刊",
           "category": "母基金/FOF"
-        }
-      ]
-    },
-    {
-      "id": 406,
-      "name": "险峰K2VC",
-      "type": "早期投资机构",
-      "fund_scale": "约50亿",
-      "focus_areas": "消费品、硬科技",
-      "cases": null,
-      "notes": null,
-      "first_year": 2020,
-      "last_year": 2020,
-      "years_active": "2020",
-      "source_orgs": "清科",
-      "tag_count": 1,
-      "created_at": "2026-04-25 02:56:35",
-      "updated_at": "2026-04-25 02:56:35",
-      "tags": [
+        },
         {
           "year": 2020,
           "list_name": "清科2020中国早期投资机构30强第15",
