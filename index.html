@@ -29,6 +29,11 @@
             gap: 24px;
             font-size: 14px;
             opacity: 0.9;
+            flex-wrap: wrap;
+        }
+        .header .stats .update-time {
+            font-size: 12px;
+            opacity: 0.7;
         }
         .header .stats span {
             display: flex;
@@ -342,10 +347,11 @@
     <div class="header">
         <h1>🏢 投资机构数据库</h1>
         <div class="stats">
-            <span>📊 <strong id="totalCount">0</strong> 家机构</span>
-            <span>🏷️ <strong id="totalTags">0</strong> 条榜单记录</span>
+            <span>📌 <strong id="totalCount">0</strong> 家机构</span>
+            <span>🏆 <strong id="totalTags">0</strong> 条榜单记录</span>
             <span>📅 覆盖 <strong id="yearRange">-</strong> 年</span>
-            <span>📂 <strong id="sourceCount">0</strong> 个榜单来源</span>
+            <span>📁 <strong id="sourceCount">0</strong> 个榜单来源</span>
+            <span class="update-time" id="updateTime"></span>
         </div>
     </div>
     
@@ -446,6 +452,15 @@
             }
             return '#95a5a6';
         }
+
+        // 格式化更新时间
+        function formatUpdateTime(isoStr) {
+            if (!isoStr) return '';
+            try {
+                const d = new Date(isoStr);
+                return d.toLocaleString('zh-CN', {month:'2-digit', day:'2-digit', hour:'2-digit', minute:'2-digit'});
+            } catch(e) { return ''; }
+        }
         
         function getTypeColor(type) {
             if (!type) return '#95a5a6';
@@ -461,10 +476,10 @@
         // ========== 数据加载 ==========
         async function loadData() {
             try {
-                const response = await fetch('data.json');
+                const response = await fetch('data.json?t=' + Date.now(), { cache: 'no-cache' });
                 const data = await response.json();
-                allData = data.institutions;
-                metadata = data.metadata;
+                allData = data.institutions || [];
+                metadata = data.metadata || {};
                 
                 // 更新统计
                 document.getElementById('totalCount').textContent = metadata.totalInstitutions;
@@ -473,6 +488,13 @@
                 document.getElementById('yearRange').textContent = 
                     validYears.length > 0 ? `${Math.min(...validYears)}-${Math.max(...validYears)}` : '-';
                 document.getElementById('sourceCount').textContent = metadata.sources.length;
+                
+                // 显示更新时间
+                if (metadata.generatedAt) {
+                    const d = new Date(metadata.generatedAt);
+                    const timeStr = d.toLocaleString('zh-CN', {month:'2-digit', day:'2-digit', hour:'2-digit', minute:'2-digit'});
+                    document.getElementById('updateTime').textContent = `🕓 ${timeStr} 更新`;
+                }
                 
                 // 填充筛选器
                 populateFilters();
